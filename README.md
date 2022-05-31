@@ -30,11 +30,11 @@ Networks and blockchains we are currently testing
 1. [Subspace](https://telemetry.subspace.network/#/0x332ef6e751e25426e38996c51299dfc53bcd56f40b53dce2b2fc8442ae9c4a74) STAVR
 1. [Ironfish](https://testnet.ironfish.network/leaderboard) STAVR
 1. [Starknet](https://discord.com/channels/793094838509764618/956557041336455290/980346285309710367)
-1. [Minima]()
-1. [Massa]()
-1. [Masa]()
-1. [Humanode]()
-1. [Oasys]()
+1. [Minima](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+1. [Massa](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+1. [Masa](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+1. [Humanode](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+1. [Oasys](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 
 
 
