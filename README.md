@@ -22,19 +22,14 @@ Networks and blockchains we are currently testing
 12. [Stafi](https://testnet-explorer.stafihub.io/stafi-hub-testnet/staking/stafivaloper1auwyy6qm6slxfg5uy7cl5th9s8juapnv6rap32)
 12. [Sei](https://sei.explorers.guru/validator/cosmosvaloper1kxnf4n0yjjyhjx0n7mkwzkx68agjt0m37t3nh4)
 12. [Clan network](https://testnet.explorer.testnet.run/Clan%20Network/staking/clanvaloper1hzln3x9ve6s23ga7vtvrtfkxd2ac9duqf3e3ct)
-
-
-
-
-##  Active testnets other
-1. [Subspace](https://telemetry.subspace.network/#/0x332ef6e751e25426e38996c51299dfc53bcd56f40b53dce2b2fc8442ae9c4a74) STAVR
-1. [Ironfish](https://testnet.ironfish.network/leaderboard) STAVR
-1. [Starknet](https://discord.com/channels/793094838509764618/956557041336455290/980346285309710367)
-1. [Minima](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
-1. [Massa](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
-1. [Masa](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
-1. [Humanode](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
-1. [Oasys](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+13 [Subspace](https://telemetry.subspace.network/#/0x332ef6e751e25426e38996c51299dfc53bcd56f40b53dce2b2fc8442ae9c4a74) STAVR
+14. [Ironfish](https://testnet.ironfish.network/leaderboard) STAVR
+15. [Starknet](https://discord.com/channels/793094838509764618/956557041336455290/980346285309710367)
+16. [Minima](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+17. [Massa](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+18. [Masa](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+19. [Humanode](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+20. [Oasys](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 
 
 
