@@ -22,7 +22,7 @@ Networks and blockchains we are currently testing
 14. [Stafi](https://testnet-explorer.stafihub.io/stafi-hub-testnet/staking/stafivaloper1auwyy6qm6slxfg5uy7cl5th9s8juapnv6rap32)
 15. [Sei](https://sei.explorers.guru/validator/cosmosvaloper1kxnf4n0yjjyhjx0n7mkwzkx68agjt0m37t3nh4)
 16. [Clan network](https://testnet.explorer.testnet.run/Clan%20Network/staking/clanvaloper1hzln3x9ve6s23ga7vtvrtfkxd2ac9duqf3e3ct)
-17. [Subspace](https://telemetry.subspace.network/#/0x332ef6e751e25426e38996c51299dfc53bcd56f40b53dce2b2fc8442ae9c4a74) STAVR
+17. [Subspace](https://telemetry.subspace.network/#list/0x8e975582755f7fd4c125e64a51bafadca9dfaf18b0183ac19bc589d36d44aeed) STAVR
 18. [Ironfish](https://testnet.ironfish.network/leaderboard) STAVR
 19. [Starknet](https://discord.com/channels/793094838509764618/956557041336455290/980346285309710367)
 20. [Minima](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
