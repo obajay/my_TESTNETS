@@ -29,7 +29,7 @@ Networks and blockchains we are currently testing
 21. [Masa](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 22. [Humanode](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 23. [Oasys](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
-24. [Kujira](https://cosmosrun.info/kujira-harpoon-3/staking/kujiravaloper1w6me5d32gvkjd566g92gqxdtjy6kj6uepvqpft)
+24. [Kujira](https://kujira.explorers.guru/validator/kujiravaloper1w6me5d32gvkjd566g92gqxdtjy6kj6uepvqpft)
 
 
 
