@@ -30,7 +30,7 @@ Networks and blockchains we are currently testing
 22. [Humanode](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 23. [Oasys](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 24. [Kujira](https://kujira.explorers.guru/validator/kujiravaloper1w6me5d32gvkjd566g92gqxdtjy6kj6uepvqpft)
-25. [Paloma](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+25. [PalomaChain](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 
 
 
