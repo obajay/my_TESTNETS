@@ -32,6 +32,7 @@ Networks and blockchains we are currently testing
 24. [Kujira](https://kujira.explorers.guru/validator/kujiravaloper1w6me5d32gvkjd566g92gqxdtjy6kj6uepvqpft)
 25. [PalomaChain](https://paloma.explorers.guru/validator/palomavaloper1tv8rplnkzymcgaq2hcl6kd6fh0fv8zqh6qg76z)
 26. [Aura](https://halo.aurascan.io/validators/auravaloper1f4p75whmt2my5y0xs5zdzwvrzzf0e2jputw2my)
+26. [Sui](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 
 
 
