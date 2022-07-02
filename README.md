@@ -12,7 +12,7 @@ Networks and blockchains we are currently testing
 4. [AsetMantle](https://test-mantle-1.explorer.assetmantle.one/validators/mantlevaloper1d5c53jlygt0v0s7ljsh2mqdwlg73dk00qv4ta0)
 5. [Celestia](https://celestia.explorers.guru/validator/celestiavaloper1lv6254w0xz7t3qsgsueag7eexrdj9rpwg5uyer)
 6. [DWS](https://dws.explorers.guru/validator/dewebvaloper12wjeysnjx264gs264q4sp5khsffpewpassjplh)
-7. [Cosmic Horizon](https://coho.explorers.guru/validator/cohovaloper1mrr2tj92fqv0wgzlhwyet8e23l84h0u0hrr4tj)
+7. [Cosmic Horizon](https://coho.explorers.guru/validator/cohovaloper1mrr2tj92fqv0wgzlhwyet8e23l84h0u0hrr4tj) (waitnig next phase)
 8. [Pylons](https://pylons.explorers.guru/validator/pylovaloper16sttxsupvxyv8g2m8xejntxw4eukqqt77tflhh)
 9. [KYVE](https://kyve.explorers.guru/validator/kyvevaloper162ydfdt3j34cx9ndrajfsjxcf5e2hfuxjm49rd)
 10. [QuickSilver](https://quicksilver.explorers.guru/validator/quickvaloper10hmn0sc656hd9du5483rkeelu9r7lkusu0yay8)
@@ -21,7 +21,7 @@ Networks and blockchains we are currently testing
 13. [Stafi](https://testnet-explorer.stafihub.io/stafi-hub-testnet/staking/stafivaloper1auwyy6qm6slxfg5uy7cl5th9s8juapnv6rap32)
 14. [Sei](https://sei.explorers.guru/validator/seivaloper1kxnf4n0yjjyhjx0n7mkwzkx68agjt0m3gu97uh)
 15. [Clan network](https://testnet.explorer.testnet.run/Clan%20Network/staking/clanvaloper1hzln3x9ve6s23ga7vtvrtfkxd2ac9duqf3e3ct)
-16. [Subspace](https://telemetry.subspace.network/#list/0x9ee86eefc3cc61c71a7751bba7f25e442da2512f408e6286153b3ccc055dccf0) STAVR
+16. [Subspace](https://telemetry.subspace.network/#list/0x9ee86eefc3cc61c71a7751bba7f25e442da2512f408e6286153b3ccc055dccf0) (The first stage is over, we waiting phase 2)
 17. [Ironfish](https://testnet.ironfish.network/leaderboard) STAVR
 18. [Starknet](https://discord.com/channels/793094838509764618/956557041336455290/980346285309710367)
 19. [Minima](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
@@ -29,11 +29,11 @@ Networks and blockchains we are currently testing
 21. [Masa](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 22. [Humanode](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 23. [Oasys](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
-24. [Kujira](https://kujira.explorers.guru/validator/kujiravaloper1w6me5d32gvkjd566g92gqxdtjy6kj6uepvqpft)
-25. [PalomaChain](https://paloma.explorers.guru/validator/palomavaloper1tv8rplnkzymcgaq2hcl6kd6fh0fv8zqh6qg76z)
-26. [Aura](https://halo.aurascan.io/validators/auravaloper1f4p75whmt2my5y0xs5zdzwvrzzf0e2jputw2my)
+24. [PalomaChain](https://paloma.explorers.guru/validator/palomavaloper14adf9qvjud980swgsjafmtx8d4js7njs2ffgkd)
+25. [Aura](https://halo.aurascan.io/validators/auravaloper1f4p75whmt2my5y0xs5zdzwvrzzf0e2jputw2my)
 26. [Sui](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
-
+27. [Aptos](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+28. [SubQuery](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 
 
                                     discord - SAKURA#0129
