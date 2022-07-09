@@ -33,6 +33,7 @@ Networks and blockchains we are currently testing
 25. [Aptos](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 26. [SubQuery](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 27. [Stride](https://poolparty.stride.zone/STRIDE/staking/stridevaloper1n94ndmxqf7vke553lr3ewwt4edtc4g6mdyx9qn)
+28. [Sinso](https://testnet.whitelist.vip/)
 
 
                                     discord - SAKURA#0129
