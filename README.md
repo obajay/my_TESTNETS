@@ -35,7 +35,8 @@ Networks and blockchains we are currently testing
 27. [Stride](https://poolparty.stride.zone/STRIDE/staking/stridevaloper1n94ndmxqf7vke553lr3ewwt4edtc4g6mdyx9qn)
 28. [Sinso](https://testnet.whitelist.vip/)
 29. [Defund](https://defund.explorers.guru/validator/defundvaloper14wa33x0sssc6et3e2js08fhxe75evcpdalpe5z)
-
+30. [Teritori](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+31. [Crowd Control](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 
                                     discord - SAKURA#0129
 
