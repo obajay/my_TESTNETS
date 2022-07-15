@@ -37,6 +37,8 @@ Networks and blockchains we are currently testing
 29. [Defund](https://defund.explorers.guru/validator/defundvaloper14wa33x0sssc6et3e2js08fhxe75evcpdalpe5z)
 30. [Teritori](https://explorer.ericet.xyz/teritori/staking/torivaloper1qttw95d6xk0nhk3mc63ueg29xap4msu3xndcnn)
 31. [Crowd Control](https://explorer.theamsolutions.info/Cardchain/staking/ccvaloper14va4c3sfpxyapjjgl9mguwr82zc6v4f4957a9c)
+32. [Mundis](http://metrics.devnet.mundis.io:3000/d/local/devnet-cluster-monitor?orgId=1&refresh=30s&var-datasource=default&var-testnet=devnet&var-hostid=CS2EwUQ4gbqidxs1nXyxgf87a9LugwbU2mF7R4ohYrig)
+
 
                                     discord - SAKURA#0129
 
