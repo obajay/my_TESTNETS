@@ -29,14 +29,13 @@ Networks and blockchains we are currently testing
 21. [PalomaChain](https://paloma.explorers.guru/validator/palomavaloper14adf9qvjud980swgsjafmtx8d4js7njs2ffgkd)
 22. [Aura](https://euphoria.aurascan.io/validators/auravaloper1f4p75whmt2my5y0xs5zdzwvrzzf0e2jputw2my)
 23. [Sui](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
-24. [Aptos](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
-25. [SubQuery](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
-26. [Stride](https://poolparty.stride.zone/STRIDE/staking/stridevaloper1n94ndmxqf7vke553lr3ewwt4edtc4g6mdyx9qn)
-27. [Sinso](https://testnet.whitelist.vip/)
-28. [Defund](https://defund.explorers.guru/validator/defundvaloper14wa33x0sssc6et3e2js08fhxe75evcpdalpe5z)
-29. [Teritori](https://explorer.ericet.xyz/teritori/staking/torivaloper1qttw95d6xk0nhk3mc63ueg29xap4msu3xndcnn)
-30. [Crowd Control](https://explorer.theamsolutions.info/Cardchain/staking/ccvaloper14va4c3sfpxyapjjgl9mguwr82zc6v4f4957a9c)
-31. [Mundis](http://metrics.devnet.mundis.io:3000/d/local/devnet-cluster-monitor?orgId=1&refresh=30s&var-datasource=default&var-testnet=devnet&var-hostid=CS2EwUQ4gbqidxs1nXyxgf87a9LugwbU2mF7R4ohYrig)
+24. [SubQuery](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+25. [Stride](https://poolparty.stride.zone/STRIDE/staking/stridevaloper1n94ndmxqf7vke553lr3ewwt4edtc4g6mdyx9qn)
+26. [Sinso](https://testnet.whitelist.vip/)
+27. [Defund](https://defund.explorers.guru/validator/defundvaloper14wa33x0sssc6et3e2js08fhxe75evcpdalpe5z) (The first stage is over, we waiting phase 2)
+28. [Teritori](https://explorer.ericet.xyz/teritori/staking/torivaloper1qttw95d6xk0nhk3mc63ueg29xap4msu3xndcnn)
+39. [Crowd Control](https://explorer.theamsolutions.info/Cardchain/staking/ccvaloper14va4c3sfpxyapjjgl9mguwr82zc6v4f4957a9c)
+30. [Mundis](http://metrics.devnet.mundis.io:3000/d/local/devnet-cluster-monitor?orgId=1&refresh=30s&var-datasource=default&var-testnet=devnet&var-hostid=CS2EwUQ4gbqidxs1nXyxgf87a9LugwbU2mF7R4ohYrig)
 
 
                                     discord - SAKURA#0129
