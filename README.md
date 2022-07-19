@@ -26,7 +26,7 @@ Networks and blockchains we are currently testing
 18. [Masa](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 19. [Humanode](https://telemetry.humanode.io/#list/0x54f8483c71e0bd9fa1b1f654bcdd91b35df07a08ecc4e859b465926ceef91a49) STAVR
 20. [Oasys](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
-21. [PalomaChain](https://paloma.explorers.guru/validator/palomavaloper14adf9qvjud980swgsjafmtx8d4js7njs2ffgkd)
+21. [PalomaChain](https://paloma.explorers.guru/validator/palomavaloper1tv8rplnkzymcgaq2hcl6kd6fh0fv8zqh6qg76z)
 22. [Aura](https://euphoria.aurascan.io/validators/auravaloper1f4p75whmt2my5y0xs5zdzwvrzzf0e2jputw2my)
 23. [Sui](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 24. [SubQuery](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
