@@ -16,8 +16,8 @@ Networks and blockchains we are currently testing
 8. [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1n9urj4d6mngtuhpfysdxu7nq72e8830wkx5mug)
 9. [Another-1](https://test-anone.zenscan.io/validator.php?addr=onevaloper13nlxz82s78xkf803ygc4yclg9cc6we6aw60079)
 10. [Stafi](https://testnet-explorer.stafihub.io/stafi-hub-testnet/staking/stafivaloper1auwyy6qm6slxfg5uy7cl5th9s8juapnv6rap32)
-11. [Sei](https://sei.explorers.guru/validator/seivaloper1kxnf4n0yjjyhjx0n7mkwzkx68agjt0m3gu97uh)
-11.1 [Sei](https://devnet.sei.explorers.guru/validator/seivaloper1kxnf4n0yjjyhjx0n7mkwzkx68agjt0m3gu97uh) devnet
+11. [Sei](https://sei.explorers.guru/validator/seivaloper1kxnf4n0yjjyhjx0n7mkwzkx68agjt0m3gu97uh) \
+11.1 [Sei](https://devnet.sei.explorers.guru/validator/seivaloper1kxnf4n0yjjyhjx0n7mkwzkx68agjt0m3gu97uh) devnet 
 12. [Clan network](https://testnet.explorer.testnet.run/Clan%20Network/staking/clanvaloper1hzln3x9ve6s23ga7vtvrtfkxd2ac9duqf3e3ct)
 13. [Subspace](https://telemetry.subspace.network/#list/0x9ee86eefc3cc61c71a7751bba7f25e442da2512f408e6286153b3ccc055dccf0) (The first stage is over, we waiting phase 2)
 14. [Ironfish](https://testnet.ironfish.network/leaderboard) STAVR
