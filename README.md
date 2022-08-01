@@ -40,8 +40,7 @@ Networks and blockchains we are currently testing
 
 
 
-                                    discord - SAKURA#0129
-
-  STAVR - https://t.me/STAVRRR
++ discord - SAKURA#0129
++ telegram - https://t.me/STAVRRR
 
 
