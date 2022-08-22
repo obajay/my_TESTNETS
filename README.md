@@ -39,7 +39,7 @@ Networks and blockchains we are currently testing
 30. [Quai](https://github.com/obajay/my_TESTNETS/blob/main/README.md) (we waiting Iron Age Testnet)
 31. [Aleo](https://github.com/obajay/my_TESTNETS/blob/main/README.md) (we waiting next phase)
 32. [Source](https://explorer.testnet.sourceprotocol.io/source/staking/sourcevaloper13l78szv3mxcru9mhh2ndv58xla2arfzhv045cx)
-33. [haqq](https://explorer.nodestake.top/haqq/staking/haqqvaloper1yj2hjxsu7gxcdje86hgnm9gn7z09ua9vhjx6pn)
+33. [haqq](https://explorer.nodestake.top/haqq-testnet/staking/haqqvaloper1yj2hjxsu7gxcdje86hgnm9gn7z09ua9vhjx6pn)
 
 <details>
 <summary>Finished Testnets</summary>
