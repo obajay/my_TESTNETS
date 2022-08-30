@@ -40,6 +40,8 @@ Networks and blockchains we are currently testing
 31. [Aleo](https://github.com/obajay/my_TESTNETS/blob/main/README.md) (we waiting next phase)
 32. [Source](https://explorer.testnet.sourceprotocol.io/source/staking/sourcevaloper13l78szv3mxcru9mhh2ndv58xla2arfzhv045cx)
 33. [haqq](https://explorer.nodestake.top/haqq-testnet/staking/haqqvaloper1yj2hjxsu7gxcdje86hgnm9gn7z09ua9vhjx6pn)
+34. [Obol](https://prater.beaconcha.in/validator/a885dc062876b52fd966aab9d4b81735a1f78986d0540d9edbf8bad0d1fdd4d1427598f5d6971a701f67bd7971c403c3#attestations)
+
 
 <details>
 <summary>Finished Testnets</summary>
