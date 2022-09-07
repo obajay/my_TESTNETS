@@ -16,7 +16,7 @@ Networks and blockchains we are currently testing
 8. [Sei](https://sei.explorers.guru/validator/seivaloper1kxnf4n0yjjyhjx0n7mkwzkx68agjt0m3gu97uh) \
 8.1 [Sei](https://devnet.sei.explorers.guru/validator/seivaloper1kxnf4n0yjjyhjx0n7mkwzkx68agjt0m3gu97uh) devnet 
 9. [Clan network](https://testnet.explorer.testnet.run/Clan%20Network/staking/clanvaloper1hzln3x9ve6s23ga7vtvrtfkxd2ac9duqf3e3ct)
-10. [Subspace](https://telemetry.subspace.network/#list/0x9ee86eefc3cc61c71a7751bba7f25e442da2512f408e6286153b3ccc055dccf0) (The first stage is over, we waiting phase 2)
+10. [Subspace](https://telemetry.subspace.network/#list/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) STAVR  (gemini phase II)
 11. [Ironfish](https://testnet.ironfish.network/leaderboard) STAVR
 12. [Starknet](https://discord.com/channels/793094838509764618/956557041336455290/980346285309710367)
 13. [Minima](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
