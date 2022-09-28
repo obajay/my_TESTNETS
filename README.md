@@ -41,6 +41,8 @@ Networks and blockchains we are currently testing
 32. [Obol](https://prater.beaconcha.in/validator/a885dc062876b52fd966aab9d4b81735a1f78986d0540d9edbf8bad0d1fdd4d1427598f5d6971a701f67bd7971c403c3#attestations)
 33. [Terp](http://explorer.stavr.tech/nois/staking/noisvaloper1hz0dp0et70u2w2pv7y5ane6u6wpghq3wg80lpy)
 34. [Nois](http://explorer.stavr.tech/terp-network/staking/terpvaloper1eff25w2su9zxhe9lzea65l9xyptv8saxj6r2c8)
+35. [Ollo](http://explorer.stavr.tech/ollo/staking/ollovaloper1nnjlq5g0kvlhd9pzpcaxgnqz44w8ques4434ws)
+36. [Hypersign]()
 
 
 <details>
