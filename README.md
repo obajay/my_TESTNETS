@@ -42,7 +42,7 @@ Networks and blockchains we are currently testing
 33. [Terp](http://explorer.stavr.tech/nois/staking/noisvaloper1hz0dp0et70u2w2pv7y5ane6u6wpghq3wg80lpy)
 34. [Nois](http://explorer.stavr.tech/terp-network/staking/terpvaloper1eff25w2su9zxhe9lzea65l9xyptv8saxj6r2c8)
 35. [Ollo](http://explorer.stavr.tech/ollo/staking/ollovaloper1nnjlq5g0kvlhd9pzpcaxgnqz44w8ques4434ws)
-36. [Hypersign]()
+36. [Hypersign](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 
 
 <details>
