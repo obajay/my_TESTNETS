@@ -43,6 +43,7 @@ Networks and blockchains we are currently testing
 34. [Nois](http://explorer.stavr.tech/terp-network/staking/terpvaloper1eff25w2su9zxhe9lzea65l9xyptv8saxj6r2c8)
 35. [Ollo](http://explorer.stavr.tech/ollo/staking/ollovaloper1nnjlq5g0kvlhd9pzpcaxgnqz44w8ques4434ws)
 36. [Hypersign](http://explorer.stavr.tech/hypersign/staking/hidvaloper1mgvq7xersraskutl0d8x0zyk3m24hc6u8zcm0h)
+37. [Empower](http://explorer.stavr.tech/empower/staking/empowervaloper1l4xt877lhhhm9573ewpxrcdl9x29n7scjrtdqw)
 
 
 <details>
