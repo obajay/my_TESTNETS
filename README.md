@@ -7,7 +7,7 @@ Networks and blockchains we are currently testing
 
 
 1. [Celestia](https://celestia.explorers.guru/validator/celestiavaloper1lv6254w0xz7t3qsgsueag7eexrdj9rpwg5uyer)
-2. [DWS](https://dws.explorers.guru/validator/dewebvaloper12wjeysnjx264gs264q4sp5khsffpewpassjplh)
+2. [DWS](https://explorer.stavr.tech/dws/staking/dewebvaloper1jmxnrfmart0ksvj2exm3q0xnrczuqtvpmu4953)
 3. [SOLANA](https://www.validators.app/?q=9GMmVYJBw5Cj58P8QtXtesyQUtA9GyecPb6kCki7QSo5&network=testnet&order=&refresh=&commit=Search)
 4. [Cosmic Horizon](https://coho.explorers.guru/validator/cohovaloper1mrr2tj92fqv0wgzlhwyet8e23l84h0u0hrr4tj) (waitnig next phase)
 5. [Pylons](https://pylons.explorers.guru/validator/pylovaloper16sttxsupvxyv8g2m8xejntxw4eukqqt77tflhh)
@@ -31,7 +31,7 @@ Networks and blockchains we are currently testing
 22. [Sinso](https://testnet.whitelist.vip/)
 23. [Defund](https://defund.explorers.guru/validator/defundvaloper14wa33x0sssc6et3e2js08fhxe75evcpdalpe5z) (The first stage is over, we waiting phase 2)
 24. [Teritori](https://explorer.ericet.xyz/teritori/staking/torivaloper1qttw95d6xk0nhk3mc63ueg29xap4msu3xndcnn)
-25. [Crowd Control](https://explorer.theamsolutions.info/Cardchain/staking/ccvaloper14va4c3sfpxyapjjgl9mguwr82zc6v4f4957a9c)
+25. [Crowd Control](https://explorer.stavr.tech/cardchain/staking/ccvaloper1s9fljs8pfz60qqg6wj6hxhu82tjfqu6yaep9s7)
 26. [Mundis](http://metrics.devnet.mundis.io:3000/d/local/devnet-cluster-monitor?orgId=1&refresh=30s&var-datasource=default&var-testnet=devnet&var-hostid=CS2EwUQ4gbqidxs1nXyxgf87a9LugwbU2mF7R4ohYrig)
 27. [Aptos](https://github.com/obajay/my_TESTNETS/blob/main/README.md) (we waiting AIT3)
 28. [Quai](https://github.com/obajay/my_TESTNETS/blob/main/README.md) (we waiting Iron Age Testnet)
