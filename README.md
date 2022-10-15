@@ -45,7 +45,8 @@ Networks and blockchains we are currently testing
 36. [Hypersign](http://explorer.stavr.tech/hypersign/staking/hidvaloper1mgvq7xersraskutl0d8x0zyk3m24hc6u8zcm0h)
 37. [Empower](http://explorer.stavr.tech/empower/staking/empowervaloper1l4xt877lhhhm9573ewpxrcdl9x29n7scjrtdqw)
 38. [Transformer](https://explorer.tfsc.io/#/pc/ValidatorBetail?address=1LvpoUwuGmY3E1DavzF7Q6iAicNF7oveuP&active=1&online=1&selfStake=5000&delegateds=5000&delegated=109364&name=STAVR)
-
+39. [Realio](https://explorer.stavr.tech/realio/staking/realiovaloper1n99gv9edgtvktcpxld6x9cp6zvq7e28mzjwwg4)
+40. [Mande-Network](https://explorer.stavr.tech/mande-chain/staking/mandevaloper1adk2k85kkg6ufmjph8ksez2xatmru5zms3pmlm)
 
 <details>
 <summary>Finished Testnets</summary>
