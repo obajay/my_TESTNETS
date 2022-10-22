@@ -48,6 +48,7 @@ Networks and blockchains we are currently testing
 39. [Realio](https://explorer.stavr.tech/realio/staking/realiovaloper1n99gv9edgtvktcpxld6x9cp6zvq7e28mzjwwg4)
 40. [Mande-Network](https://explorer.stavr.tech/mande-chain/staking/mandevaloper1adk2k85kkg6ufmjph8ksez2xatmru5zms3pmlm)
 41. [OKP4](https://explorer.stavr.tech/okp4/staking/okp4valoper1sc4dkm38ejwftlxfwj9tx6dq8tdd3e9ygascc8)
+42. [UMEE](https://explorer.stavr.tech/umee-canon/staking/umeevaloper13k8p5q678ld8k7y2mv35kurl8ucskjzks0qlfa)
 
 <details>
 <summary>Finished Testnets</summary>
