@@ -49,6 +49,7 @@ Networks and blockchains we are currently testing
 40. [Mande-Network](https://explorer.stavr.tech/mande-chain/staking/mandevaloper104v2uksujl8scw2zlzvxnutgw08vvla498fh09)
 41. [OKP4](https://explorer.stavr.tech/okp4/staking/okp4valoper1sc4dkm38ejwftlxfwj9tx6dq8tdd3e9ygascc8)
 42. [UMEE](https://explorer.stavr.tech/umee-canon/staking/umeevaloper13k8p5q678ld8k7y2mv35kurl8ucskjzks0qlfa)
+43. [Androma](https://explorer.stavr.tech/andromeda/staking/andrvaloper1xsm4dvmh5txrcteyv3yq5z8pm58mu35365tpzq)
 
 <details>
 <summary>Finished Testnets</summary>
