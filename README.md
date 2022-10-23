@@ -90,7 +90,7 @@ Networks and blockchains we are currently testing
 - [Taraxa](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 - [Kujira](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 - [IDEP](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
-- [AsetMantle](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [AssetMantle](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 - [QuickSilver](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 - [Stafi](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 - [Another-1](https://test-anone.zenscan.io/validator.php?addr=onevaloper13nlxz82s78xkf803ygc4yclg9cc6we6aw60079)
