@@ -51,6 +51,7 @@ Networks and blockchains we are currently testing
 42. [UMEE](https://explorer.stavr.tech/umee-canon/staking/umeevaloper13k8p5q678ld8k7y2mv35kurl8ucskjzks0qlfa)
 43. [Androma](https://explorer.stavr.tech/andromeda/staking/andrvaloper1xsm4dvmh5txrcteyv3yq5z8pm58mu35365tpzq)
 43. [Bitcanna-Dev](https://explorer.stavr.tech/bitcanna-dev/staking/bcnavaloper1hn0hc4c6786xtka8pzy5qyrlv276d26arvkv59)
+44. [Nibiru](https://explorer.stavr.tech/nibiru/staking/nibivaloper1vgh5ry6zwjp007f90wfwgung6l4z6330tmqsw4)
 
 <details>
 <summary>Finished Testnets</summary>
