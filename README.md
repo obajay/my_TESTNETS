@@ -28,7 +28,7 @@ Networks and blockchains we are currently testing
 19. [Aura](https://explorer.stavr.tech/aura/staking/auravaloper1ucp33srru7g45ku6w207kc4hy6xd6psvmxw3xf)
 20. [Sui](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 22. [Sinso](https://testnet.whitelist.vip/)
-23. [Defund](https://defund.explorers.guru/validator/defundvaloper14wa33x0sssc6et3e2js08fhxe75evcpdalpe5z) (The first stage is over, we waiting phase 2)
+23. [Defund](https://explorer.stavr.tech/defund-testnet/staking/defundvaloper14wa33x0sssc6et3e2js08fhxe75evcpdalpe5z) 
 24. [Teritori](https://explorer.stavr.tech/teritori/staking/torivaloper1qttw95d6xk0nhk3mc63ueg29xap4msu3xndcnn)
 25. [Crowd Control](https://explorer.stavr.tech/cardchain/staking/ccvaloper1s9fljs8pfz60qqg6wj6hxhu82tjfqu6yaep9s7)
 26. [Mundis](http://metrics.devnet.mundis.io:3000/d/local/devnet-cluster-monitor?orgId=1&refresh=30s&var-datasource=default&var-testnet=devnet&var-hostid=CS2EwUQ4gbqidxs1nXyxgf87a9LugwbU2mF7R4ohYrig)
