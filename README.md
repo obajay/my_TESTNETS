@@ -43,7 +43,7 @@ Networks and blockchains we are currently testing
 38. [Transformer](https://explorer.tfsc.io/#/pc/ValidatorBetail?address=1LvpoUwuGmY3E1DavzF7Q6iAicNF7oveuP&active=1&online=1&selfStake=5000&delegateds=5000&delegated=109364&name=STAVR)
 39. [Realio](https://explorer.stavr.tech/realio/staking/realiovaloper1n99gv9edgtvktcpxld6x9cp6zvq7e28mzjwwg4)
 40. [Mande-Network](https://explorer.stavr.tech/mande-chain/staking/mandevaloper104v2uksujl8scw2zlzvxnutgw08vvla498fh09)
-41. [OKP4](https://explorer.stavr.tech/okp4/staking/okp4valoper1sc4dkm38ejwftlxfwj9tx6dq8tdd3e9ygascc8)
+41. [OKP4](https://explorer.stavr.tech/okp4-testnet/staking/okp4valoper1sc4dkm38ejwftlxfwj9tx6dq8tdd3e9ygascc8)
 42. [UMEE](https://explorer.stavr.tech/umee-canon/staking/umeevaloper13k8p5q678ld8k7y2mv35kurl8ucskjzks0qlfa)
 43. [Androma](https://explorer.stavr.tech/andromeda/staking/andrvaloper1xsm4dvmh5txrcteyv3yq5z8pm58mu35365tpzq)
 43. [Bitcanna-Dev](https://explorer.stavr.tech/bitcanna-dev/staking/bcnavaloper1hn0hc4c6786xtka8pzy5qyrlv276d26arvkv59)
