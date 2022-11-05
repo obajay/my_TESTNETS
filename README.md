@@ -9,7 +9,6 @@ Networks and blockchains we are currently testing
 1. [Celestia](https://celestia.explorers.guru/validator/celestiavaloper1lv6254w0xz7t3qsgsueag7eexrdj9rpwg5uyer)
 2. [DWS](https://explorer.stavr.tech/dws/staking/dewebvaloper1jmxnrfmart0ksvj2exm3q0xnrczuqtvpmu4953)
 3. [SOLANA](https://www.validators.app/?q=9GMmVYJBw5Cj58P8QtXtesyQUtA9GyecPb6kCki7QSo5&network=testnet&order=&refresh=&commit=Search)
-4. [Cosmic Horizon](https://coho.explorers.guru/validator/cohovaloper1mrr2tj92fqv0wgzlhwyet8e23l84h0u0hrr4tj) (waitnig next phase)
 5. [Pylons](https://explorer.stavr.tech/pylons/staking/pylovaloper16sttxsupvxyv8g2m8xejntxw4eukqqt77tflhh)
 6. [KYVE](https://explorer.stavr.tech/kyve/staking/kyvevaloper162ydfdt3j34cx9ndrajfsjxcf5e2hfuxjm49rd)
 7. [Uptick](https://explorer.stavr.tech/uptick/staking/uptickvaloper1n9urj4d6mngtuhpfysdxu7nq72e8830wkx5mug)
@@ -99,8 +98,8 @@ Networks and blockchains we are currently testing
 - [Aptos](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 - [Obol](https://prater.beaconcha.in/validator/a885dc062876b52fd966aab9d4b81735a1f78986d0540d9edbf8bad0d1fdd4d1427598f5d6971a701f67bd7971c403c3#attestations)
 - [SubQuery](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Cosmic Horizon](https://coho.explorers.guru/validator/cohovaloper1mrr2tj92fqv0wgzlhwyet8e23l84h0u0hrr4tj)
 </details>
-
 
 + discord - SAKURA#0129
 + telegram - https://t.me/STAVRRR
