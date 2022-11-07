@@ -37,7 +37,7 @@ Networks and blockchains we are currently testing
 31. [haqq](https://explorer.stavr.tech/haqq/staking/haqqvaloper1yj2hjxsu7gxcdje86hgnm9gn7z09ua9vhjx6pn)
 33. [Terp](https://explorer.stavr.tech/terp-network/staking/terpvaloper1eff25w2su9zxhe9lzea65l9xyptv8saxj6r2c8)
 34. [Nois](https://explorer.stavr.tech/nois/staking/noisvaloper1enwhnv85g4n99a2kzg8gey22xu6u43l4cxj824)
-35. [Ollo](http://explorer.stavr.tech/ollo/staking/ollovaloper1nnjlq5g0kvlhd9pzpcaxgnqz44w8ques4434ws)
+35. [Ollo](https://explorer.stavr.tech/ollo/staking/ollovaloper1hfsguqknteazy28ms9nm633yyf9tg4uz2gfr6a)
 36. [Hypersign](http://explorer.stavr.tech/hypersign/staking/hidvaloper1mgvq7xersraskutl0d8x0zyk3m24hc6u8zcm0h)
 37. [Empower](http://explorer.stavr.tech/empower/staking/empowervaloper1l4xt877lhhhm9573ewpxrcdl9x29n7scjrtdqw)
 38. [Transformer](https://explorer.tfsc.io/#/pc/ValidatorBetail?address=1LvpoUwuGmY3E1DavzF7Q6iAicNF7oveuP&active=1&online=1&selfStake=5000&delegateds=5000&delegated=109364&name=STAVR)
