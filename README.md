@@ -49,6 +49,7 @@ Networks and blockchains we are currently testing
 43. [Bitcanna-Dev](https://explorer.stavr.tech/bitcanna-dev/staking/bcnavaloper1hn0hc4c6786xtka8pzy5qyrlv276d26arvkv59)
 44. [Nibiru](https://explorer.stavr.tech/nibiru/staking/nibivaloper1vgh5ry6zwjp007f90wfwgung6l4z6330tmqsw4)
 42. [Exorde](https://github.com/obajay)
+45. [Gitopia](https://explorer.stavr.tech/gitopia-testnet/staking/gitopiavaloper1ztlnz9v3qqmq828dp6rj3ndu7gvju63m3az0ym)
 
 <details>
 <summary>Finished Testnets</summary>
