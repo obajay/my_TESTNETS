@@ -21,7 +21,6 @@ Networks and blockchains we are currently testing
 13. [Minima](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 14. [Massa](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 15. [Masa](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
-16. [Humanode](https://telemetry.humanode.io/#list/0x54f8483c71e0bd9fa1b1f654bcdd91b35df07a08ecc4e859b465926ceef91a49) STAVR
 17. [Oasys](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 18. [PalomaChain](https://paloma.explorers.guru/validators)
 19. [Aura](https://explorer.stavr.tech/aura/staking/auravaloper1ucp33srru7g45ku6w207kc4hy6xd6psvmxw3xf)
@@ -103,6 +102,7 @@ Networks and blockchains we are currently testing
 - [Obol](https://prater.beaconcha.in/validator/a885dc062876b52fd966aab9d4b81735a1f78986d0540d9edbf8bad0d1fdd4d1427598f5d6971a701f67bd7971c403c3#attestations)
 - [SubQuery](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 - [Cosmic Horizon](https://coho.explorers.guru/validator/cohovaloper1mrr2tj92fqv0wgzlhwyet8e23l84h0u0hrr4tj)
+- [Humanode](https://telemetry.humanode.io/#list/0x54f8483c71e0bd9fa1b1f654bcdd91b35df07a08ecc4e859b465926ceef91a49) STAVR
 </details>
 
 + discord - SAKURA#0129
