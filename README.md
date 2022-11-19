@@ -8,7 +8,7 @@ Networks and blockchains we are currently testing
 
 1. [Celestia](https://celestia.explorers.guru/validator/celestiavaloper1lv6254w0xz7t3qsgsueag7eexrdj9rpwg5uyer)
 2. [DWS](https://explorer.stavr.tech/dws/staking/dewebvaloper1jmxnrfmart0ksvj2exm3q0xnrczuqtvpmu4953)
-3. [SOLANA](https://www.validators.app/?q=9GMmVYJBw5Cj58P8QtXtesyQUtA9GyecPb6kCki7QSo5&network=testnet&order=&refresh=&commit=Search)
+3. [SOLANA](https://www.validators.app/validators?q=9GMmVYJBw5Cj58P8QtXtesyQUtA9GyecPb6kCki7QSo5&network=testnet&order=&refresh=&commit=Search)
 5. [Pylons](https://explorer.stavr.tech/pylons/staking/pylovaloper16sttxsupvxyv8g2m8xejntxw4eukqqt77tflhh)
 6. [KYVE](https://explorer.stavr.tech/kyve/staking/kyvevaloper162ydfdt3j34cx9ndrajfsjxcf5e2hfuxjm49rd)
 7. [Uptick](https://explorer.stavr.tech/uptick/staking/uptickvaloper1n9urj4d6mngtuhpfysdxu7nq72e8830wkx5mug)
