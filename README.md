@@ -50,7 +50,7 @@ Networks and blockchains we are currently testing
 42. [Exorde](https://github.com/obajay)
 45. [Gitopia](https://explorer.stavr.tech/gitopia-testnet/staking/gitopiavaloper1ztlnz9v3qqmq828dp6rj3ndu7gvju63m3az0ym)
 46. [Neutron](https://explorer.stavr.tech/neutron-testnet/staking/neutronvaloper1y535ugclzdhlyjd6wchl35eljvx5y9z24duqy3)
-
+47. [Chainflip](https://stake-perseverance.chainflip.io/auctions)
 
 <details>
 <summary>Finished Testnets</summary>
