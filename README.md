@@ -51,6 +51,7 @@ Networks and blockchains we are currently testing
 45. [Gitopia](https://explorer.stavr.tech/gitopia-testnet/staking/gitopiavaloper1ztlnz9v3qqmq828dp6rj3ndu7gvju63m3az0ym)
 46. [Neutron](https://explorer.stavr.tech/neutron-testnet/staking/neutronvaloper1y535ugclzdhlyjd6wchl35eljvx5y9z24duqy3)
 47. [Chainflip](https://stake-perseverance.chainflip.io/auctions)
+48. [SGE](https://explorer.stavr.tech/sge-testnet/staking/sgevaloper1g3a72tlm6v25y58pjy8x07far4hqj7cgxl3n9z)
 
 <details>
 <summary>Finished Testnets</summary>
