@@ -7,7 +7,6 @@ Networks and blockchains we are currently testing
 
 
 1. [Celestia](https://celestia.explorers.guru/validator/celestiavaloper1lv6254w0xz7t3qsgsueag7eexrdj9rpwg5uyer)
-2. [DWS](https://explorer.stavr.tech/dws/staking/dewebvaloper1jmxnrfmart0ksvj2exm3q0xnrczuqtvpmu4953)
 3. [SOLANA](https://www.validators.app/validators?q=9GMmVYJBw5Cj58P8QtXtesyQUtA9GyecPb6kCki7QSo5&network=testnet&order=&refresh=&commit=Search)
 5. [Pylons](https://explorer.stavr.tech/pylons/staking/pylovaloper16sttxsupvxyv8g2m8xejntxw4eukqqt77tflhh)
 6. [KYVE](https://explorer.stavr.tech/kyve/staking/kyvevaloper162ydfdt3j34cx9ndrajfsjxcf5e2hfuxjm49rd)
@@ -106,6 +105,7 @@ Networks and blockchains we are currently testing
 - [Humanode](https://telemetry.humanode.io/#list/0x54f8483c71e0bd9fa1b1f654bcdd91b35df07a08ecc4e859b465926ceef91a49) STAVR
 - [Neutron](https://explorer.stavr.tech/neutron-testnet/staking/neutronvaloper1y535ugclzdhlyjd6wchl35eljvx5y9z24duqy3)
 - [Empower](http://explorer.stavr.tech/empower/staking/empowervaloper1l4xt877lhhhm9573ewpxrcdl9x29n7scjrtdqw)
+- [DWS](https://explorer.stavr.tech/dws/staking/dewebvaloper1jmxnrfmart0ksvj2exm3q0xnrczuqtvpmu4953)
 
 </details>
 
