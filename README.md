@@ -38,7 +38,6 @@ Networks and blockchains we are currently testing
 34. [Nois](https://explorer.stavr.tech/nois/staking/noisvaloper1enwhnv85g4n99a2kzg8gey22xu6u43l4cxj824)
 35. [Ollo](https://explorer.stavr.tech/ollo/staking/ollovaloper1hfsguqknteazy28ms9nm633yyf9tg4uz2gfr6a)
 36. [Hypersign](http://explorer.stavr.tech/hypersign/staking/hidvaloper1mgvq7xersraskutl0d8x0zyk3m24hc6u8zcm0h)
-37. [Empower](http://explorer.stavr.tech/empower/staking/empowervaloper1l4xt877lhhhm9573ewpxrcdl9x29n7scjrtdqw)
 38. [Transformer](https://explorer.tfsc.io/#/pc/ValidatorBetail?address=1LvpoUwuGmY3E1DavzF7Q6iAicNF7oveuP&active=1&online=1&selfStake=5000&delegateds=5000&delegated=109364&name=STAVR)
 39. [Realio](https://explorer.stavr.tech/realio/staking/realiovaloper1n99gv9edgtvktcpxld6x9cp6zvq7e28mzjwwg4)
 40. [Mande-Network](https://explorer.stavr.tech/mande-chain/staking/mandevaloper104v2uksujl8scw2zlzvxnutgw08vvla498fh09)
@@ -49,10 +48,10 @@ Networks and blockchains we are currently testing
 44. [Nibiru](https://explorer.stavr.tech/nibiru/staking/nibivaloper1vgh5ry6zwjp007f90wfwgung6l4z6330tmqsw4)
 42. [Exorde](https://github.com/obajay)
 45. [Gitopia](https://explorer.stavr.tech/gitopia-testnet/staking/gitopiavaloper1ztlnz9v3qqmq828dp6rj3ndu7gvju63m3az0ym)
-46. [Neutron](https://explorer.stavr.tech/neutron-testnet/staking/neutronvaloper1y535ugclzdhlyjd6wchl35eljvx5y9z24duqy3)
 47. [Chainflip](https://stake-perseverance.chainflip.io/auctions)
 48. [SGE](https://explorer.stavr.tech/sge-testnet/staking/sgevaloper1g3a72tlm6v25y58pjy8x07far4hqj7cgxl3n9z)
 49. [Adamnite](https://github.com/obajay)
+50. [Jackal-Testnet](https://explorer.stavr.tech/jackal-testnet/staking/jklvaloper1apaj3552wv4umcwrxm9ggx6hr7ttck5kha7sat)
 
 <details>
 <summary>Finished Testnets</summary>
@@ -105,6 +104,9 @@ Networks and blockchains we are currently testing
 - [SubQuery](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 - [Cosmic Horizon](https://coho.explorers.guru/validator/cohovaloper1mrr2tj92fqv0wgzlhwyet8e23l84h0u0hrr4tj)
 - [Humanode](https://telemetry.humanode.io/#list/0x54f8483c71e0bd9fa1b1f654bcdd91b35df07a08ecc4e859b465926ceef91a49) STAVR
+- [Neutron](https://explorer.stavr.tech/neutron-testnet/staking/neutronvaloper1y535ugclzdhlyjd6wchl35eljvx5y9z24duqy3)
+- [Empower](http://explorer.stavr.tech/empower/staking/empowervaloper1l4xt877lhhhm9573ewpxrcdl9x29n7scjrtdqw)
+
 </details>
 
 + discord - SAKURA#0129
