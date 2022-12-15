@@ -13,7 +13,6 @@ Networks and blockchains we are currently testing
 5. [Sei](https://explorer.stavr.tech/sei/staking/seivaloper1u3rszcv0zjdj5cuw22cwe3955xk7zjjjex9t3u) \
 5.1 [Sei](https://devnet.sei.explorers.guru/validator/seivaloper1kxnf4n0yjjyhjx0n7mkwzkx68agjt0m3gu97uh) devnet 
 6. [Clan network](https://explorer.stavr.tech/clannetwork/staking/clanvaloper1hzln3x9ve6s23ga7vtvrtfkxd2ac9duqf3e3ct)
-7. [Subspace](https://telemetry.subspace.network/#list/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) STAVR  (gemini phase II)
 8. [Ironfish](https://testnet.ironfish.network/leaderboard) STAVR
 9. [Starknet](https://discord.com/channels/793094838509764618/956557041336455290/980346285309710367)
 10. [Minima](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
@@ -39,7 +38,6 @@ Networks and blockchains we are currently testing
 30. [Transformer](https://explorer.tfsc.io/#/pc/ValidatorBetail?address=1LvpoUwuGmY3E1DavzF7Q6iAicNF7oveuP&active=1&online=1&selfStake=5000&delegateds=5000&delegated=109364&name=STAVR)
 31. [Realio](https://explorer.stavr.tech/realio/staking/realiovaloper1n99gv9edgtvktcpxld6x9cp6zvq7e28mzjwwg4)
 32. [Mande-Network](https://explorer.stavr.tech/mande-chain/staking/mandevaloper104v2uksujl8scw2zlzvxnutgw08vvla498fh09)
-33. [OKP4](https://explorer.stavr.tech/okp4-testnet/staking/okp4valoper1sc4dkm38ejwftlxfwj9tx6dq8tdd3e9ygascc8)
 34. [UMEE](https://explorer.stavr.tech/umee-canon/staking/umeevaloper13k8p5q678ld8k7y2mv35kurl8ucskjzks0qlfa)
 35. [Androma](https://explorer.stavr.tech/andromeda/staking/andrvaloper1xsm4dvmh5txrcteyv3yq5z8pm58mu35365tpzq)
 36. [Bitcanna-Dev](https://explorer.stavr.tech/bitcanna-dev/staking/bcnavaloper1hn0hc4c6786xtka8pzy5qyrlv276d26arvkv59)
@@ -107,6 +105,8 @@ Networks and blockchains we are currently testing
 - [Empower](http://explorer.stavr.tech/empower/staking/empowervaloper1l4xt877lhhhm9573ewpxrcdl9x29n7scjrtdqw)
 - [DWS](https://explorer.stavr.tech/dws/staking/dewebvaloper1jmxnrfmart0ksvj2exm3q0xnrczuqtvpmu4953)
 - [Pylons](https://explorer.stavr.tech/pylons/staking/pylovaloper16sttxsupvxyv8g2m8xejntxw4eukqqt77tflhh)
+- [Subspace](https://telemetry.subspace.network/#list/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) STAVR
+- [OKP4](https://explorer.stavr.tech/okp4-testnet/staking/okp4valoper1sc4dkm38ejwftlxfwj9tx6dq8tdd3e9ygascc8)
 
 </details>
 
