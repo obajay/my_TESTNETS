@@ -49,6 +49,7 @@ Networks and blockchains we are currently testing
 42. [Adamnite](https://github.com/obajay)
 43. [Jackal-Testnet](https://explorer.stavr.tech/jackal-testnet/staking/jklvaloper1apaj3552wv4umcwrxm9ggx6hr7ttck5kha7sat)
 44. [Humans](https://explorer.stavr.tech/humans-testnet/staking/humanvaloper1xq9msyjv4pdhgv0wu33wyd99wf3ffwsc35ptax)
+45. [Nolus](https://explorer.stavr.tech/nolus-testnet/staking/nolusvaloper1gqtd7nm09lyu8ql4m8r0ck4md7zdq2c76h5p49)
 
 <details>
 <summary>Finished Testnets</summary>
