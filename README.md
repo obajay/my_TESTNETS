@@ -50,6 +50,7 @@ Networks and blockchains we are currently testing
 43. [Jackal-Testnet](https://explorer.stavr.tech/jackal-testnet/staking/jklvaloper1apaj3552wv4umcwrxm9ggx6hr7ttck5kha7sat)
 44. [Humans](https://explorer.stavr.tech/humans-testnet/staking/humanvaloper1xq9msyjv4pdhgv0wu33wyd99wf3ffwsc35ptax)
 45. [Nolus](https://explorer.stavr.tech/nolus-testnet/staking/nolusvaloper1gqtd7nm09lyu8ql4m8r0ck4md7zdq2c76h5p49)
+46. [Quicksilver](https://explorer.stavr.tech/quicksilver/staking/quickvaloper1hm6t24g6dxkp7dk6pn2hn379pdupvd5r3s6z3q)
 
 <details>
 <summary>Finished Testnets</summary>
@@ -91,7 +92,6 @@ Networks and blockchains we are currently testing
 - [Kujira](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 - [IDEP](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 - [AssetMantle](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
-- [QuickSilver](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 - [Stafi](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 - [Another-1](https://test-anone.zenscan.io/validator.php?addr=onevaloper13nlxz82s78xkf803ygc4yclg9cc6we6aw60079)
 - [Zeitgeist](https://telemetry.polkadot.io/#list/0xb90cd3a37b4793c6494b78962986f4f6ed3ec2eda91a6b84fd8457d24f606b9c)
