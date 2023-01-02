@@ -110,6 +110,7 @@ Networks and blockchains we are currently testing
 - [Subspace](https://telemetry.subspace.network/#list/0x43d10ffd50990380ffe6c9392145431d630ae67e89dbc9c014cac2a417759101) STAVR
 - [OKP4](https://explorer.stavr.tech/okp4-testnet/staking/okp4valoper1sc4dkm38ejwftlxfwj9tx6dq8tdd3e9ygascc8)
 - [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1tev3n7lu65v2ksg0ph0ywvz3kney50c0r9k6yp)
+- [Solana](https://www.validators.app/validators?locale=en&network=mainnet&order=score&refresh=)
 
 </details>
 
