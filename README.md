@@ -52,6 +52,7 @@ Networks and blockchains we are currently testing
 45. [Nolus](https://explorer.stavr.tech/nolus-testnet/staking/nolusvaloper1gqtd7nm09lyu8ql4m8r0ck4md7zdq2c76h5p49)
 46. [Quicksilver](https://explorer.stavr.tech/quicksilver/staking/quickvaloper1hm6t24g6dxkp7dk6pn2hn379pdupvd5r3s6z3q)
 45. [Anoma](https://namada.world)
+46. [Lava](https://explorer.stavr.tech/lava-testnet/staking/lava@valoper1pwrwgqe8lke6c6y9md2cnwznlutzlv867kt4mc)
 
 <details>
 <summary>Finished Testnets</summary>
