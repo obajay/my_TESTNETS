@@ -53,6 +53,7 @@ Networks and blockchains we are currently testing
 46. [Quicksilver](https://explorer.stavr.tech/quicksilver/staking/quickvaloper1hm6t24g6dxkp7dk6pn2hn379pdupvd5r3s6z3q)
 45. [Anoma](https://namada.world)
 46. [Lava](https://explorer.stavr.tech/lava-testnet/staking/lava@valoper1pwrwgqe8lke6c6y9md2cnwznlutzlv867kt4mc)
+47. [OKP4](https://explorer.stavr.tech/okp4-testnet/staking/okp4valoper1sc4dkm38ejwftlxfwj9tx6dq8tdd3e9ygascc8)
 
 <details>
 <summary>Finished Testnets</summary>
