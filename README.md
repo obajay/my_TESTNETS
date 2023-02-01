@@ -54,7 +54,7 @@ Networks and blockchains we are currently testing
 45. [Anoma](https://namada.world)
 46. [Lava](https://explorer.stavr.tech/lava-testnet/staking/lava@valoper1pwrwgqe8lke6c6y9md2cnwznlutzlv867kt4mc)
 47. [OKP4](https://explorer.stavr.tech/okp4-testnet/staking/okp4valoper1sc4dkm38ejwftlxfwj9tx6dq8tdd3e9ygascc8)
-48. [Mars](https://explorer.stavr.tech/mars-testnet/staking/marsvaloper1pc3ahwcurfedenmmndtk6w4nv7yj08ywfyenqf)
+
 
 <details>
 <summary>Finished Testnets</summary>
@@ -114,6 +114,7 @@ Networks and blockchains we are currently testing
 - [OKP4](https://explorer.stavr.tech/okp4-testnet/staking/okp4valoper1sc4dkm38ejwftlxfwj9tx6dq8tdd3e9ygascc8)
 - [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1tev3n7lu65v2ksg0ph0ywvz3kney50c0r9k6yp)
 - [Solana](https://www.validators.app/validators?locale=en&network=mainnet&order=score&refresh=)
+- [Mars](https://explorer.stavr.tech/mars-testnet/staking/marsvaloper1pc3ahwcurfedenmmndtk6w4nv7yj08ywfyenqf)
 
 </details>
 
