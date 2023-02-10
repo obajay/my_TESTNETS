@@ -54,7 +54,7 @@ Networks and blockchains we are currently testing
 45. [Anoma](https://namada.world)
 46. [Lava](https://explorer.stavr.tech/lava-testnet/staking/lava@valoper1pwrwgqe8lke6c6y9md2cnwznlutzlv867kt4mc)
 47. [OKP4](https://explorer.stavr.tech/okp4-testnet/staking/okp4valoper1sc4dkm38ejwftlxfwj9tx6dq8tdd3e9ygascc8)
-
+48. [Althea](https://explorer.stavr.tech/althea-testnet/staking/altheavaloper1dmhvufcxxh0r3kf36ktwv7ff5ew20paq952h2s)
 
 <details>
 <summary>Finished Testnets</summary>
