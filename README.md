@@ -56,7 +56,7 @@ Networks and blockchains we are currently testing
 47. [OKP4](https://explorer.stavr.tech/okp4-testnet/staking/okp4valoper1sc4dkm38ejwftlxfwj9tx6dq8tdd3e9ygascc8)
 48. [Althea](https://explorer.stavr.tech/althea-testnet/staking/altheavaloper1dmhvufcxxh0r3kf36ktwv7ff5ew20paq952h2s)
 49. [Andromedad](https://explorer.stavr.tech/andromedad-testnet/staking/andrvaloper1xsm4dvmh5txrcteyv3yq5z8pm58mu35365tpzq)
-50. [Coreum](https://explorer.stavr.tech/andromedad-testnet/staking/andrvaloper1xsm4dvmh5txrcteyv3yq5z8pm58mu35365tpzq
+50. [Coreum](https://explorer.stavr.tech/andromedad-testnet/staking/andrvaloper1xsm4dvmh5txrcteyv3yq5z8pm58mu35365tpzq)
 
 <details>
 <summary>Finished Testnets</summary>
