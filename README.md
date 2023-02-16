@@ -58,6 +58,7 @@ Networks and blockchains we are currently testing
 49. [Andromedad](https://explorer.stavr.tech/andromedad-testnet/staking/andrvaloper1xsm4dvmh5txrcteyv3yq5z8pm58mu35365tpzq)
 50. [Coreum](https://explorer.stavr.tech/coreum-testnet/staking/testcorevaloper1p0gg6tuzgmw7lylwlg5l9hda3pj5whhcryxwwq)
 51. [Dymension](https://explorer.stavr.tech/dymension-testnet/staking/dymvaloper17jaxv5u8z0l34z2cku9jqjd4rln8096w8umpn9)
+52. [Terra](https://explorer.sxlzptprjkt.xyz/goa-corrino/staking/corrinovaloper1a047r604jzwdv6wcv6m6drwf30v52vxmst0fw0)
 
 <details>
 <summary>Finished Testnets</summary>
