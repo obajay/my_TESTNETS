@@ -8,10 +8,10 @@ Networks and blockchains we are currently testing
 
 1. [Celestia](https://celestia.explorers.guru/validator/celestiavaloper1lv6254w0xz7t3qsgsueag7eexrdj9rpwg5uyer)
 2. [SOLANA](https://www.validators.app/validators?q=9GMmVYJBw5Cj58P8QtXtesyQUtA9GyecPb6kCki7QSo5&network=testnet&order=&refresh=&commit=Search)
-3. [KYVE](https://explorer.stavr.tech/kyve/staking/kyvevaloper162ydfdt3j34cx9ndrajfsjxcf5e2hfuxjm49rd)
+3. [KYVE](https://explorer.stavr.tech/kyve/staking/kyvevaloper162ydfdt3j34cx9ndrajfsjxcf5e2hfuxjm49rd) \
 3.1 [KYVE Kaon](https://explorer.stavr.tech/kyve-kaon/staking/kyvevaloper16qwtkeadppy3u9z6pu9tuy8zq02u3vecun3s0d)
 4. [Uptick](https://explorer.stavr.tech/uptick/staking/uptickvaloper1n9urj4d6mngtuhpfysdxu7nq72e8830wkx5mug)
-5. [Sei](https://explorer.stavr.tech/sei/staking/seivaloper1u3rszcv0zjdj5cuw22cwe3955xk7zjjjex9t3u) \
+5. [Sei](https://explorer.stavr.tech/sei/staking/seivaloper1u3rszcv0zjdj5cuw22cwe3955xk7zjjjex9t3u)
 6. [Clan network](https://explorer.stavr.tech/clannetwork/staking/clanvaloper1hzln3x9ve6s23ga7vtvrtfkxd2ac9duqf3e3ct)
 8. [Ironfish](https://testnet.ironfish.network/leaderboard) STAVR
 9. [Starknet](https://discord.com/channels/793094838509764618/956557041336455290/980346285309710367)
