@@ -58,10 +58,9 @@ Networks and blockchains we are currently testing
 49. [Andromedad](https://explorer.stavr.tech/andromedad-testnet/staking/andrvaloper1xsm4dvmh5txrcteyv3yq5z8pm58mu35365tpzq)
 50. [Coreum](https://explorer.stavr.tech/coreum-testnet/staking/testcorevaloper1p0gg6tuzgmw7lylwlg5l9hda3pj5whhcryxwwq)
 51. [Dymension](https://explorer.stavr.tech/dymension-testnet/staking/dymvaloper17jaxv5u8z0l34z2cku9jqjd4rln8096w8umpn9)
-52. [Terra](https://explorer.sxlzptprjkt.xyz/goa-corrino/staking/corrinovaloper1a047r604jzwdv6wcv6m6drwf30v52vxmst0fw0)
-53. [Quasar](https://explorer.stavr.tech/quasar-testnet/staking/quasarvaloper1qucu6jc20jcf5tj6r7n8ppd4sl9n67cmcqsqyp)
-54. [Juno](https://explorer.stavr.tech/juno-testnet/staking/junovaloper1qns2cgfa0y0s4x37vkd8dtkutj5kveekxpf6jd)
-55. [SAO](https://explorer.stavr.tech/sao-testnet/staking/saovaloper1am03n3gnc4ylhyj7uyn4dv73ysyfk70yplu3lh)
+52. [Quasar](https://explorer.stavr.tech/quasar-testnet/staking/quasarvaloper1qucu6jc20jcf5tj6r7n8ppd4sl9n67cmcqsqyp)
+53. [Juno](https://explorer.stavr.tech/juno-testnet/staking/junovaloper1qns2cgfa0y0s4x37vkd8dtkutj5kveekxpf6jd)
+54. [SAO](https://explorer.stavr.tech/sao-testnet/staking/saovaloper1am03n3gnc4ylhyj7uyn4dv73ysyfk70yplu3lh)
 
 <details>
 <summary>Finished Testnets</summary>
@@ -122,7 +121,8 @@ Networks and blockchains we are currently testing
 - [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1tev3n7lu65v2ksg0ph0ywvz3kney50c0r9k6yp)
 - [Solana](https://www.validators.app/validators?locale=en&network=mainnet&order=score&refresh=)
 - [Mars](https://explorer.stavr.tech/mars-testnet/staking/marsvaloper1pc3ahwcurfedenmmndtk6w4nv7yj08ywfyenqf)
-
+- [Terra](https://explorer.sxlzptprjkt.xyz/goa-corrino/staking/corrinovaloper1a047r604jzwdv6wcv6m6drwf30v52vxmst0fw0)
+  
 </details>
 
 + discord - SAKURA#0129
