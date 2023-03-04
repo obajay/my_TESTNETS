@@ -61,6 +61,7 @@ Networks and blockchains we are currently testing
 52. [Terra](https://explorer.sxlzptprjkt.xyz/goa-corrino/staking/corrinovaloper1a047r604jzwdv6wcv6m6drwf30v52vxmst0fw0)
 53. [Quasar](https://explorer.stavr.tech/quasar-testnet/staking/quasarvaloper1qucu6jc20jcf5tj6r7n8ppd4sl9n67cmcqsqyp)
 54. [Juno](https://explorer.stavr.tech/juno-testnet/staking/junovaloper1qns2cgfa0y0s4x37vkd8dtkutj5kveekxpf6jd)
+55. [SAO](https://explorer.stavr.tech/sao-testnet/staking/saovaloper1am03n3gnc4ylhyj7uyn4dv73ysyfk70yplu3lh)
 
 <details>
 <summary>Finished Testnets</summary>
