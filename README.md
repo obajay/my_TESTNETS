@@ -61,6 +61,7 @@ Networks and blockchains we are currently testing
 52. [Quasar](https://explorer.stavr.tech/quasar-testnet/staking/quasarvaloper1qucu6jc20jcf5tj6r7n8ppd4sl9n67cmcqsqyp)
 53. [Juno](https://explorer.stavr.tech/juno-testnet/staking/junovaloper1qns2cgfa0y0s4x37vkd8dtkutj5kveekxpf6jd)
 54. [SAO](https://explorer.stavr.tech/sao-testnet/staking/saovaloper1am03n3gnc4ylhyj7uyn4dv73ysyfk70yplu3lh)
+55. [Ojo](https://explorer.stavr.tech/ojo-devnet/staking/ojovaloper1cw9f2xn072ll9g5q76d5cg7us9s4gp8903mcel)
 
 <details>
 <summary>Finished Testnets</summary>
