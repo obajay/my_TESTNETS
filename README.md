@@ -121,7 +121,7 @@ Networks and blockchains we are currently testing
 - [Solana](https://www.validators.app/validators?locale=en&network=mainnet&order=score&refresh=)
 - [Mars](https://explorer.stavr.tech/mars-testnet/staking/marsvaloper1pc3ahwcurfedenmmndtk6w4nv7yj08ywfyenqf)
 - [Terra](https://explorer.sxlzptprjkt.xyz/goa-corrino/staking/corrinovaloper1a047r604jzwdv6wcv6m6drwf30v52vxmst0fw0)
-- [KYVE](https://explorer.stavr.tech/kyve/staking/kyvevaloper162ydfdt3j34cx9ndrajfsjxcf5e2hfuxjm49rd) \
+- [KYVE](https://explorer.stavr.tech/kyve/staking/kyvevaloper162ydfdt3j34cx9ndrajfsjxcf5e2hfuxjm49rd)
 - [KYVE Kaon](https://explorer.stavr.tech/kyve-kaon/staking/kyvevaloper16qwtkeadppy3u9z6pu9tuy8zq02u3vecun3s0d)
   
 </details>
