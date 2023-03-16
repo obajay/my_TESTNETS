@@ -55,6 +55,7 @@ Networks and blockchains we are currently testing
 53. [Juno](https://explorer.stavr.tech/juno-testnet/staking/junovaloper1qns2cgfa0y0s4x37vkd8dtkutj5kveekxpf6jd)
 54. [SAO](https://explorer.stavr.tech/sao-testnet/staking/saovaloper1am03n3gnc4ylhyj7uyn4dv73ysyfk70yplu3lh)
 55. [Ojo](https://explorer.stavr.tech/ojo-devnet/staking/ojovaloper1cw9f2xn072ll9g5q76d5cg7us9s4gp8903mcel)
+55. [SGE](https://explorer.stavr.tech/sge-testnet/staking/sgevaloper105xysdmvy6xyz3ytyk62fgkwyczx2n4vzkyp6g)
 
 <details>
 <summary>Finished Testnets</summary>
@@ -120,7 +121,6 @@ Networks and blockchains we are currently testing
 - [KYVE Kaon](https://explorer.stavr.tech/kyve-kaon/staking/kyvevaloper16qwtkeadppy3u9z6pu9tuy8zq02u3vecun3s0d)
 - [Ollo](https://explorer.stavr.tech/ollo/staking/ollovaloper1hfsguqknteazy28ms9nm633yyf9tg4uz2gfr6a)
 - [Nolus](https://explorer.stavr.tech/nolus-testnet/staking/nolusvaloper1gqtd7nm09lyu8ql4m8r0ck4md7zdq2c76h5p49)
-- [SGE](https://explorer.stavr.tech/sge-testnet/staking/sgevaloper1g3a72tlm6v25y58pjy8x07far4hqj7cgxl3n9z)
 - [Clan network](https://explorer.stavr.tech/clannetwork/staking/clanvaloper1hzln3x9ve6s23ga7vtvrtfkxd2ac9duqf3e3ct)  
 - [Sei](https://explorer.stavr.tech/sei/staking/seivaloper1u3rszcv0zjdj5cuw22cwe3955xk7zjjjex9t3u)  
   
