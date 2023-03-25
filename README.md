@@ -50,10 +50,9 @@ Networks and blockchains we are currently testing
 48. [Althea](https://explorer.stavr.tech/althea-testnet/staking/altheavaloper1dmhvufcxxh0r3kf36ktwv7ff5ew20paq952h2s)
 49. [Andromedad](https://explorer.stavr.tech/andromedad-testnet/staking/andrvaloper1xsm4dvmh5txrcteyv3yq5z8pm58mu35365tpzq)
 51. [Dymension](https://explorer.stavr.tech/dymension-testnet/staking/dymvaloper17jaxv5u8z0l34z2cku9jqjd4rln8096w8umpn9)
-52. [Quasar](https://explorer.stavr.tech/quasar-testnet/staking/quasarvaloper1qucu6jc20jcf5tj6r7n8ppd4sl9n67cmcqsqyp)
-53. [Juno](https://explorer.stavr.tech/juno-testnet/staking/junovaloper1qns2cgfa0y0s4x37vkd8dtkutj5kveekxpf6jd)
-54. [SAO](https://explorer.stavr.tech/sao-testnet/staking/saovaloper1am03n3gnc4ylhyj7uyn4dv73ysyfk70yplu3lh)
-55. [Ojo](https://explorer.stavr.tech/ojo-devnet/staking/ojovaloper1cw9f2xn072ll9g5q76d5cg7us9s4gp8903mcel)
+52. [Juno](https://explorer.stavr.tech/juno-testnet/staking/junovaloper1qns2cgfa0y0s4x37vkd8dtkutj5kveekxpf6jd)
+53. [SAO](https://explorer.stavr.tech/sao-testnet/staking/saovaloper1am03n3gnc4ylhyj7uyn4dv73ysyfk70yplu3lh)
+54. [Ojo](https://explorer.stavr.tech/ojo-devnet/staking/ojovaloper1cw9f2xn072ll9g5q76d5cg7us9s4gp8903mcel)
 55. [SGE](https://explorer.stavr.tech/sge-testnet/staking/sgevaloper105xysdmvy6xyz3ytyk62fgkwyczx2n4vzkyp6g)
 
 <details>
@@ -123,6 +122,7 @@ Networks and blockchains we are currently testing
 - [Clan network](https://explorer.stavr.tech/clannetwork/staking/clanvaloper1hzln3x9ve6s23ga7vtvrtfkxd2ac9duqf3e3ct)  
 - [Sei](https://explorer.stavr.tech/sei/staking/seivaloper1u3rszcv0zjdj5cuw22cwe3955xk7zjjjex9t3u)  
 - [Coreum](https://explorer.stavr.tech/coreum-testnet/staking/testcorevaloper1p0gg6tuzgmw7lylwlg5l9hda3pj5whhcryxwwq)
+- [Quasar](https://explorer.stavr.tech/quasar-testnet/staking/quasarvaloper1qucu6jc20jcf5tj6r7n8ppd4sl9n67cmcqsqyp)
   
 </details>
 
