@@ -28,7 +28,6 @@ Networks and blockchains we are currently testing
 24. [Source](https://explorer.stavr.tech/source/staking/sourcevaloper13l78szv3mxcru9mhh2ndv58xla2arfzhv045cx)
 25. [haqq](https://explorer.stavr.tech/haqq/staking/haqqvaloper1yj2hjxsu7gxcdje86hgnm9gn7z09ua9vhjx6pn)
 26. [Terp](https://explorer.stavr.tech/terp-network/staking/terpvaloper1eff25w2su9zxhe9lzea65l9xyptv8saxj6r2c8)
-27. [Nois](https://explorer.stavr.tech/nois/staking/noisvaloper1enwhnv85g4n99a2kzg8gey22xu6u43l4cxj824)
 29. [Hypersign](http://explorer.stavr.tech/hypersign/staking/hidvaloper1mgvq7xersraskutl0d8x0zyk3m24hc6u8zcm0h)
 30. [Transformer](https://explorer.tfsc.io/#/pc/ValidatorBetail?address=1LvpoUwuGmY3E1DavzF7Q6iAicNF7oveuP&active=1&online=1&selfStake=5000&delegateds=5000&delegated=109364&name=STAVR)
 31. [Realio](https://explorer.stavr.tech/realio/staking/realiovaloper1n99gv9edgtvktcpxld6x9cp6zvq7e28mzjwwg4)
@@ -123,6 +122,7 @@ Networks and blockchains we are currently testing
 - [Sei](https://explorer.stavr.tech/sei/staking/seivaloper1u3rszcv0zjdj5cuw22cwe3955xk7zjjjex9t3u)  
 - [Coreum](https://explorer.stavr.tech/coreum-testnet/staking/testcorevaloper1p0gg6tuzgmw7lylwlg5l9hda3pj5whhcryxwwq)
 - [Quasar](https://explorer.stavr.tech/quasar-testnet/staking/quasarvaloper1qucu6jc20jcf5tj6r7n8ppd4sl9n67cmcqsqyp)
+- [Nois](https://explorer.stavr.tech/nois/staking/noisvaloper1enwhnv85g4n99a2kzg8gey22xu6u43l4cxj824)
   
 </details>
 
