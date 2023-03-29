@@ -53,6 +53,7 @@ Networks and blockchains we are currently testing
 53. [SAO](https://explorer.stavr.tech/sao-testnet/staking/saovaloper1am03n3gnc4ylhyj7uyn4dv73ysyfk70yplu3lh)
 54. [Ojo](https://explorer.stavr.tech/ojo-devnet/staking/ojovaloper1cw9f2xn072ll9g5q76d5cg7us9s4gp8903mcel)
 55. [SGE](https://explorer.stavr.tech/sge-testnet/staking/sgevaloper105xysdmvy6xyz3ytyk62fgkwyczx2n4vzkyp6g)
+56. [Nois](https://explorer.stavr.tech/nois/staking/noisvaloper1mgdef8haxlvxmml25m2uwlmljqznlsjmw3y893)
 
 <details>
 <summary>Finished Testnets</summary>
