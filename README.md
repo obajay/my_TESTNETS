@@ -16,7 +16,6 @@ Networks and blockchains we are currently testing
 12. [Masa](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 13. [Oasys](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 14. [PalomaChain](https://paloma.explorers.guru/validators)
-15. [Aura](https://explorer.stavr.tech/aura/staking/auravaloper1ucp33srru7g45ku6w207kc4hy6xd6psvmxw3xf)
 16. [Sui](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 17. [Sinso](https://testnet.whitelist.vip/)
 18. [Defund](https://explorer.stavr.tech/defund-testnet/staking/defundvaloper14wa33x0sssc6et3e2js08fhxe75evcpdalpe5z) 
@@ -124,6 +123,7 @@ Networks and blockchains we are currently testing
 - [Coreum](https://explorer.stavr.tech/coreum-testnet/staking/testcorevaloper1p0gg6tuzgmw7lylwlg5l9hda3pj5whhcryxwwq)
 - [Quasar](https://explorer.stavr.tech/quasar-testnet/staking/quasarvaloper1qucu6jc20jcf5tj6r7n8ppd4sl9n67cmcqsqyp)
 - [Nois](https://explorer.stavr.tech/nois/staking/noisvaloper1enwhnv85g4n99a2kzg8gey22xu6u43l4cxj824)
+- [Aura](https://explorer.stavr.tech/aura/staking/auravaloper1ucp33srru7g45ku6w207kc4hy6xd6psvmxw3xf)
   
 </details>
 
