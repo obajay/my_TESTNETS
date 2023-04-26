@@ -56,6 +56,7 @@ Networks and blockchains we are currently testing
 48. [Elys](https://explorer.stavr.tech/elys-testnet/staking/elysvaloper1ztfn9tjxudwyeaq25evydz2mv6803cy59jlj2z)
 49. [Cascadia](https://explorer.stavr.tech/cascadia-testnet/staking/cascadiavaloper1cvw68h268ndl24qpc4rammjawj3t8cm8rmf92z)
 50. [Eywa](https://explorer.dev2.eywa.fi/validators/?search=stavr&p=1)
+51. [Composable](https://explorer.nodestake.top/composable-testnet/staking/banksyvaloper180wngzau7jzdw9xdqp0a4mm7740y5rfzhkwr5u)
 
 <details>
 <summary>Finished Testnets</summary>
