@@ -55,6 +55,7 @@ Networks and blockchains we are currently testing
 47. [Composable](https://explorer.nodestake.top/composable-testnet/staking/banksyvaloper180wngzau7jzdw9xdqp0a4mm7740y5rfzhkwr5u)
 48. [BonusBlock](https://explorer.stavr.tech/bonusblock-testnet/staking/bonusvaloper156jkdw7s0gvrl8w8w2gxgh4dujm7mhchxg9ra0)
 49. [C4E](https://explorer.stavr.tech/c4e-testnet/staking/c4evaloper1m5ycjffxe7a6x9h76l85w4v8qnuhh3dppea0mw)
+50. [Empower](https://explorer.stavr.tech/empower/staking/empowervaloper1l4xt877lhhhm9573ewpxrcdl9x29n7scjrtdqw)
 
 <details>
 <summary>Finished Testnets</summary>
