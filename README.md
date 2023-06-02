@@ -57,7 +57,7 @@ Networks and blockchains we are currently testing
 49. [C4E](https://explorer.stavr.tech/c4e-testnet/staking/c4evaloper1m5ycjffxe7a6x9h76l85w4v8qnuhh3dppea0mw)
 50. [Empower](https://explorer.stavr.tech/empower/staking/empowervaloper1l4xt877lhhhm9573ewpxrcdl9x29n7scjrtdqw)
 51. [Router](https://explorer.stavr.tech/router-testnet/staking/routervaloper17qyqkp90a8l34y8arkg0yfutxcxc23cxnc2yux)
-
+52. [Timpi](https://explorer.stavr.tech/timpi-testnet/staking/timpitnvaloper1e3m2ka2lgh7mhhgmhcmn7cceyqjm7cwdqq3mqa)
 
 <details>
 <summary>Finished Testnets</summary>
