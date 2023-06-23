@@ -8,7 +8,6 @@ Networks and blockchains we are currently testing
 
 1. [Celestia](https://celestia.explorers.guru/validator/celestiavaloper1lv6254w0xz7t3qsgsueag7eexrdj9rpwg5uyer)
 2. [SOLANA](https://www.validators.app/validators?q=9GMmVYJBw5Cj58P8QtXtesyQUtA9GyecPb6kCki7QSo5&network=testnet&order=&refresh=&commit=Search)
-3. [Uptick](https://explorer.stavr.tech/uptick/staking/uptickvaloper1n9urj4d6mngtuhpfysdxu7nq72e8830wkx5mug)
 4. [Starknet](https://discord.com/channels/793094838509764618/956557041336455290/980346285309710367)
 5. [Minima](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 6. [Massa](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
@@ -36,7 +35,6 @@ Networks and blockchains we are currently testing
 28. [Chainflip](https://stake-perseverance.chainflip.io/auctions)
 29. [Adamnite](https://github.com/obajay)
 30. [Jackal-Testnet](https://explorer.stavr.tech/jackal-testnet/staking/jklvaloper1apaj3552wv4umcwrxm9ggx6hr7ttck5kha7sat)
-31. [Humans](https://explorer.stavr.tech/humans-testnet/staking/humanvaloper1xq9msyjv4pdhgv0wu33wyd99wf3ffwsc35ptax)
 32. [Quicksilver](https://explorer.stavr.tech/quicksilver/staking/quickvaloper1hm6t24g6dxkp7dk6pn2hn379pdupvd5r3s6z3q)
 33. [Anoma](https://namada.world)
 34. [Lava](https://explorer.stavr.tech/lava-testnet/staking/lava@valoper1pwrwgqe8lke6c6y9md2cnwznlutzlv867kt4mc)
