@@ -15,7 +15,6 @@ Networks and blockchains we are currently testing
 8. [Oasys](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 9. [PalomaChain](https://paloma.explorers.guru/validators)
 10. [Sinso](https://testnet.whitelist.vip/)
-11. [Defund](https://explorer.stavr.tech/defund-testnet/staking/defundvaloper14wa33x0sssc6et3e2js08fhxe75evcpdalpe5z) 
 12. [Teritori](https://explorer.stavr.tech/teritori/staking/torivaloper1qttw95d6xk0nhk3mc63ueg29xap4msu3xndcnn)
 13. [Crowd Control](https://explorer.stavr.tech/cardchain/staking/ccvaloper1s9fljs8pfz60qqg6wj6hxhu82tjfqu6yaep9s7)
 14. [Mundis](http://metrics.devnet.mundis.io:3000/d/local/devnet-cluster-monitor?orgId=1&refresh=30s&var-datasource=default&var-testnet=devnet&var-hostid=CS2EwUQ4gbqidxs1nXyxgf87a9LugwbU2mF7R4ohYrig)
@@ -131,6 +130,7 @@ Networks and blockchains we are currently testing
 - [Gitopia](https://explorer.stavr.tech/gitopia-testnet/staking/gitopiavaloper1ztlnz9v3qqmq828dp6rj3ndu7gvju63m3az0ym)
 - [Sui](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 - [Ironfish](https://testnet.ironfish.network/leaderboard) STAVR
+- [Defund](https://explorer.stavr.tech/defund-testnet/staking/defundvaloper14wa33x0sssc6et3e2js08fhxe75evcpdalpe5z) 
   
 </details>
 
