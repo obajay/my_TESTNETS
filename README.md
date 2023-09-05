@@ -55,6 +55,7 @@ Networks and blockchains we are currently testing
 50. [Empower](https://explorer.stavr.tech/empower/staking/empowervaloper1l4xt877lhhhm9573ewpxrcdl9x29n7scjrtdqw)
 51. [Router](https://explorer.stavr.tech/router-testnet/staking/routervaloper17qyqkp90a8l34y8arkg0yfutxcxc23cxnc2yux)
 52. [Timpi](https://explorer.stavr.tech/timpi-testnet/staking/timpitnvaloper1e3m2ka2lgh7mhhgmhcmn7cceyqjm7cwdqq3mqa)
+53. [Taraxa] (https://testnet.explorer.taraxa.io/address/0x25bed101c78340cbfadf47972a22e4ba7d1f29a5)
 
 <details>
 <summary>Finished Testnets</summary>
