@@ -57,6 +57,7 @@ Networks and blockchains we are currently testing
 52. [Timpi](https://explorer.stavr.tech/timpi-testnet/staking/timpitnvaloper1e3m2ka2lgh7mhhgmhcmn7cceyqjm7cwdqq3mqa)
 53. [Taraxa](https://testnet.explorer.taraxa.io/address/0x25bed101c78340cbfadf47972a22e4ba7d1f29a5)
 54. [Arkeo](https://explorer.stavr.tech/arkeo-testnet/staking/tarkeovaloper1kwsdmnp77mvcv93jky3l89q9kdjhqj78e02t66)
+55. [SelfChain](https://explorer.stavr.tech/selfchain-testnet/staking/selfvaloper1vsxfu4aclu4lsf5s8ac50zfpp2nmfdlwx6kll9)
 
 <details>
 <summary>Finished Testnets</summary>
