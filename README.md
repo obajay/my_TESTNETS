@@ -41,7 +41,8 @@ Networks and blockchains we are currently testing
 33. [Arkeo](https://explorer.stavr.tech/Arkeo-testnet/staking/tarkeovaloper1kwsdmnp77mvcv93jky3l89q9kdjhqj78e02t66)
 34. [SelfChain](https://explorer.stavr.tech/Selfchain-testnet/staking/selfvaloper1vsxfu4aclu4lsf5s8ac50zfpp2nmfdlwx6kll9)
 35. [Entangle](https://explorer.stavr.tech/Entangle-testnet/staking/ethmvaloper1a2delprdpkxney4t4jn006zy67qgr9sn57d7ms)
-35. [Massa](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+36. [Fleek](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+37. [Massa](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 
 <details>
 <summary>Finished Testnets</summary>
