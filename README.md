@@ -119,10 +119,11 @@ Networks and blockchains we are currently testing
 - [Sui](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 - [Ironfish](https://testnet.ironfish.network/leaderboard) STAVR
 - [Defund](https://explorer.stavr.tech/defund-testnet/staking/defundvaloper14wa33x0sssc6et3e2js08fhxe75evcpdalpe5z) 
+- [MandeNetwork](https://explorer.stavr.tech/Mande-Chain/staking/mandevaloper104v2uksujl8scw2zlzvxnutgw08vvla498fh09) 
   
 </details>
 
-+ discord - [!STAVR1](https://discordapp.com/users/765663833049661530)
++ discord - [!STAVR!](https://discordapp.com/users/765663833049661530)
 + telegram - https://t.me/STAVRRR
 
 
