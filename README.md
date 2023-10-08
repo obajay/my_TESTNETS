@@ -122,7 +122,15 @@ Networks and blockchains we are currently testing
 - [Timpi](https://explorer.stavr.tech/Timpi-testnet/staking/timpitnvaloper1e3m2ka2lgh7mhhgmhcmn7cceyqjm7cwdqq3mqa)
 - [Massa](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 - [Realio](https://explorer.stavr.tech/Realio/staking/realiovaloper1n99gv9edgtvktcpxld6x9cp6zvq7e28mzjwwg4)
-  
+- [Aleo](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Oasys](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Quai](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Terp](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Starknet](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Adamnite](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Chainflip](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+- [Transformer](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
+
 </details>
 
 + discord - [!STAVR!](https://discordapp.com/users/765663833049661530)
