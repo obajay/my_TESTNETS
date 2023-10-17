@@ -27,7 +27,7 @@ Networks and blockchains we are currently testing
 19. [Elys](https://explorer.stavr.tech/Elys-Testnet/staking/elysvaloper1ztfn9tjxudwyeaq25evydz2mv6803cy59jlj2z)
 20. [Cascadia](https://explorer.stavr.tech/Cascadia-testnet/staking/cascadiavaloper1cvw68h268ndl24qpc4rammjawj3t8cm8rmf92z)
 21. [SAO-BETA](https://explorer.stavr.tech/Sao-Beta/staking/saovaloper1am03n3gnc4ylhyj7uyn4dv73ysyfk70yplu3lh)
-22. [Composable](https://explorer.stavr.tech/Composable-Testnet-3/staking/centaurivaloper1zzwlugqkt2r8z5gl6e875p22gpc48wfak25ntp)
+22. [Composable](https://explorer.stavr.tech/Composable-Testnet4/staking/centaurivaloper1hvpk89vhtn4d5ptd2gre0nfv8zgwrv0j7t700f)
 23. [BonusBlock](https://explorer.stavr.tech/BonusBlock-Testnet/staking/bonusvaloper156jkdw7s0gvrl8w8w2gxgh4dujm7mhchxg9ra0)
 24. [C4E](https://explorer.stavr.tech/C4E-Testnet/staking/c4evaloper1m5ycjffxe7a6x9h76l85w4v8qnuhh3dppea0mw)
 25. [Noria](https://explorer.stavr.tech/Noria-testnet/staking/noriavaloper1kn59arxarnshpdw49yfc62rww6faknaxjkfx23)
