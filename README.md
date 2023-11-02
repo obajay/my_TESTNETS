@@ -21,7 +21,6 @@ Networks and blockchains we are currently testing
 13. [Andromedad](https://explorer.stavr.tech/Andromedad-testnet/staking/andrvaloper1xsm4dvmh5txrcteyv3yq5z8pm58mu35365tpzq)
 14. [Dymension](https://explorer.stavr.tech/Dymension-testnet/staking/dymvaloper18sz3k8z5gnhersxk7epphuwj4sj3w05ch8a9td)
 15. [Juno](https://explorer.stavr.tech/Juno-Testnet/staking/junovaloper1qns2cgfa0y0s4x37vkd8dtkutj5kveekxpf6jd)
-16. [SAO](https://explorer.stavr.tech/Sao-Testnet/staking/saovaloper1am03n3gnc4ylhyj7uyn4dv73ysyfk70yplu3lh)
 17. [Ojo](https://explorer.stavr.tech/Ojo-Devnet/staking/ojovaloper1cw9f2xn072ll9g5q76d5cg7us9s4gp8903mcel)
 18. [Nois](https://explorer.stavr.tech/Nois-Testnet/staking/noisvaloper1mgdef8haxlvxmml25m2uwlmljqznlsjmw3y893)
 19. [Elys](https://explorer.stavr.tech/Elys-Testnet/staking/elysvaloper1ztfn9tjxudwyeaq25evydz2mv6803cy59jlj2z)
@@ -130,6 +129,7 @@ Networks and blockchains we are currently testing
 - [Chainflip](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 - [Transformer](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 - [Androma](https://explorer.stavr.tech/Andromeda/staking/andrvaloper1xsm4dvmh5txrcteyv3yq5z8pm58mu35365tpzq)
+- [SAO](https://explorer.stavr.tech/Sao-Testnet/staking/saovaloper1am03n3gnc4ylhyj7uyn4dv73ysyfk70yplu3lh)
 
 </details>
 
