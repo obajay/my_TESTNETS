@@ -12,7 +12,6 @@ Networks and blockchains we are currently testing
 4. [Hypersign](http://explorer.stavr.tech/HyperSign/staking/hidvaloper1mgvq7xersraskutl0d8x0zyk3m24hc6u8zcm0h)
 5. [UMEE](https://explorer.stavr.tech/umee-canon/staking/umeevaloper13k8p5q678ld8k7y2mv35kurl8ucskjzks0qlfa)
 6. [Bitcanna-Dev](https://explorer.stavr.tech/Bitcanna-DEV/staking/bcnavaloper1hn0hc4c6786xtka8pzy5qyrlv276d26arvkv59)
-7. [Nibiru](https://explorer.stavr.tech/Nibiru/staking/nibivaloper1vgh5ry6zwjp007f90wfwgung6l4z6330tmqsw4)
 8. [Jackal-Testnet](https://explorer.stavr.tech/Jackal-Testnet/staking/jklvaloper1apaj3552wv4umcwrxm9ggx6hr7ttck5kha7sat)
 09. [Quicksilver](https://explorer.stavr.tech/Quicksilver/staking/quickvaloper1hm6t24g6dxkp7dk6pn2hn379pdupvd5r3s6z3q)
 10. [Lava](https://explorer.stavr.tech/Lava-Testnet/staking/lava@valoper1pwrwgqe8lke6c6y9md2cnwznlutzlv867kt4mc)
@@ -130,6 +129,7 @@ Networks and blockchains we are currently testing
 - [Transformer](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 - [Androma](https://explorer.stavr.tech/Andromeda/staking/andrvaloper1xsm4dvmh5txrcteyv3yq5z8pm58mu35365tpzq)
 - [SAO](https://explorer.stavr.tech/Sao-Testnet/staking/saovaloper1am03n3gnc4ylhyj7uyn4dv73ysyfk70yplu3lh)
+- [Nibiru](https://explorer.stavr.tech/Nibiru/staking/nibivaloper1vgh5ry6zwjp007f90wfwgung6l4z6330tmqsw4)
 
 </details>
 
