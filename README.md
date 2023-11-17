@@ -40,6 +40,7 @@ Networks and blockchains we are currently testing
 34. [Avail](https://telemetry.avail.tools/#/0x6f09966420b2608d1947ccfb0f2a362450d1fc7fd902c29b67c906eaa965a7ae)
 34. [Mantra](https://explorer.stavr.tech/Mantra-Testnet/staking/mantravaloper136m3l5erz9w936phstxt0fwg02q44rztpx3ny4)
 35. [Entrypoint](https://explorer.stavr.tech/Entrypoint-Testnet/staking/entrypointvaloper1ejace9c6a5e4gufsczldhwn9d2q204a9srx8qv)
+36. [SGE](https://explorer.stavr.tech/Sge-Testnet/staking/sgevaloper105xysdmvy6xyz3ytyk62fgkwyczx2n4vzkyp6g)
 
 <details>
 <summary>Finished Testnets</summary>
