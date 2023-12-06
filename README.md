@@ -43,6 +43,7 @@ Networks and blockchains we are currently testing
 35. [SGE](https://explorer.stavr.tech/Sge-Testnet/staking/sgevaloper105xysdmvy6xyz3ytyk62fgkwyczx2n4vzkyp6g)
 36. [Band](https://explorer.stavr.tech/Band-Testnet/staking/bandvaloper1x4qa7uqzwd94hwqsamejme4qsgajygyd98sk77)
 37. [Aura](https://explorer.stavr.tech/Aura-Testnet/staking/auravaloper1xjsk9xvjkrmpdr032hn2g96wd8p4na29fleg8k)
+38. [Arthera](https://wallet-dev.arthera.net/validators)
 
 <details>
 <summary>Finished Testnets</summary>
