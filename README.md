@@ -43,6 +43,7 @@ Networks and blockchains we are currently testing
 35. [Aura](https://explorer.stavr.tech/Aura-Testnet/staking/auravaloper1xjsk9xvjkrmpdr032hn2g96wd8p4na29fleg8k)
 36. [Arthera](https://wallet-dev.arthera.net/validators)
 37. [Union](https://explorer.stavr.tech/Union-Testnet/staking/unionvaloper155gj5fdcs22dr4gm39mlexplxcclq5sg9ydmmv)
+38. [Autonity](https://github.com/obajay)
 
 <details>
 <summary>Finished Testnets</summary>
