@@ -44,6 +44,7 @@ Networks and blockchains we are currently testing
 36. [Arthera](https://wallet-dev.arthera.net/validators)
 37. [Union](https://explorer.stavr.tech/Union-Testnet/staking/unionvaloper155gj5fdcs22dr4gm39mlexplxcclq5sg9ydmmv)
 38. [Autonity](https://github.com/obajay)
+39. [Namada](https://namadaexplorer.com/validators?p=1)
 
 <details>
 <summary>Finished Testnets</summary>
