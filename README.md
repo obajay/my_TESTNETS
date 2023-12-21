@@ -46,7 +46,7 @@ Networks and blockchains we are currently testing
 38. [Autonity](https://github.com/obajay)
 39. [Namada](https://namadaexplorer.com/validators?p=1)
 40. [Pryzm](https://explorer.stavr.tech/Pryzm-Testnet/staking/pryzmvaloper1n90ntc7lm82r80lv9vajxlhqeed4ejvvk4st96)
-
+41. [Dora](https://explorer.stavr.tech/Dora-Testnet/staking/doravaloper1ga8cqdjne2ll6gxgpc3j02an0sapdm0qp5r4v0)
 
 <details>
 <summary>Finished Testnets</summary>
