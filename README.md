@@ -140,6 +140,7 @@ Networks and blockchains we are currently testing
 - [Nibiru](https://explorer.stavr.tech/Nibiru/staking/nibivaloper1vgh5ry6zwjp007f90wfwgung6l4z6330tmqsw4)
 - [Noria](https://explorer.stavr.tech/Noria-testnet/staking/noriavaloper1kn59arxarnshpdw49yfc62rww6faknaxjkfx23)
 - [Andromedad](https://explorer.stavr.tech/Andromedad-testnet/staking/andrvaloper1xsm4dvmh5txrcteyv3yq5z8pm58mu35365tpzq)
+- [Band](https://explorer.stavr.tech/Band-Testnet/staking/bandvaloper1x4qa7uqzwd94hwqsamejme4qsgajygyd98sk77)
 
 </details>
 
