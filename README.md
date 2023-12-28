@@ -39,7 +39,6 @@ Networks and blockchains we are currently testing
 31. [Mantra](https://explorer.stavr.tech/Mantra-Testnet/staking/mantravaloper136m3l5erz9w936phstxt0fwg02q44rztpx3ny4)
 32. [Entrypoint](https://explorer.stavr.tech/Entrypoint-Testnet/staking/entrypointvaloper1ejace9c6a5e4gufsczldhwn9d2q204a9srx8qv)
 33. [SGE](https://explorer.stavr.tech/Sge-Testnet/staking/sgevaloper105xysdmvy6xyz3ytyk62fgkwyczx2n4vzkyp6g)
-34. [Band](https://explorer.stavr.tech/Band-Testnet/staking/bandvaloper1x4qa7uqzwd94hwqsamejme4qsgajygyd98sk77)
 35. [Aura](https://explorer.stavr.tech/Aura-Testnet/staking/auravaloper1xjsk9xvjkrmpdr032hn2g96wd8p4na29fleg8k)
 36. [Arthera](https://wallet-dev.arthera.net/validators)
 37. [Union](https://explorer.stavr.tech/Union-Testnet/staking/unionvaloper155gj5fdcs22dr4gm39mlexplxcclq5sg9ydmmv)
