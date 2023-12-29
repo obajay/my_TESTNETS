@@ -24,7 +24,6 @@ Networks and blockchains we are currently testing
 16. [Elys](https://explorer.stavr.tech/Elys-Testnet/staking/elysvaloper1ztfn9tjxudwyeaq25evydz2mv6803cy59jlj2z)
 17. [Cascadia](https://explorer.stavr.tech/Cascadia-testnet/staking/cascadiavaloper1cvw68h268ndl24qpc4rammjawj3t8cm8rmf92z)
 18. [Composable](https://explorer.stavr.tech/Composable-Testnet4/staking/centaurivaloper1hvpk89vhtn4d5ptd2gre0nfv8zgwrv0j7t700f)
-19. [BonusBlock](https://explorer.stavr.tech/BonusBlock-Testnet/staking/bonusvaloper156jkdw7s0gvrl8w8w2gxgh4dujm7mhchxg9ra0)
 20. [C4E](https://explorer.stavr.tech/C4E-Testnet/staking/c4evaloper1m5ycjffxe7a6x9h76l85w4v8qnuhh3dppea0mw)
 21. [Empower](https://explorer.stavr.tech/Empower/staking/empowervaloper1l4xt877lhhhm9573ewpxrcdl9x29n7scjrtdqw)
 22. [Opside](https://opsi.de/validator/0xb712d62b001d4d51ad0ee171d91965c9a788cec896f291bc4584359bcf565fd227aefbc268c2851b21229bed2b456754)
@@ -141,6 +140,7 @@ Networks and blockchains we are currently testing
 - [Noria](https://explorer.stavr.tech/Noria-testnet/staking/noriavaloper1kn59arxarnshpdw49yfc62rww6faknaxjkfx23)
 - [Andromedad](https://explorer.stavr.tech/Andromedad-testnet/staking/andrvaloper1xsm4dvmh5txrcteyv3yq5z8pm58mu35365tpzq)
 - [Band](https://explorer.stavr.tech/Band-Testnet/staking/bandvaloper1x4qa7uqzwd94hwqsamejme4qsgajygyd98sk77)
+- [BonusBlock](https://explorer.stavr.tech/BonusBlock-Testnet/staking/bonusvaloper156jkdw7s0gvrl8w8w2gxgh4dujm7mhchxg9ra0)
 
 </details>
 
