@@ -26,7 +26,6 @@ Networks and blockchains we are currently testing
 18. [Composable](https://explorer.stavr.tech/Composable-Testnet4/staking/centaurivaloper1hvpk89vhtn4d5ptd2gre0nfv8zgwrv0j7t700f)
 20. [C4E](https://explorer.stavr.tech/C4E-Testnet/staking/c4evaloper1m5ycjffxe7a6x9h76l85w4v8qnuhh3dppea0mw)
 21. [Empower](https://explorer.stavr.tech/Empower/staking/empowervaloper1l4xt877lhhhm9573ewpxrcdl9x29n7scjrtdqw)
-22. [Opside](https://opsi.de/validator/0xb712d62b001d4d51ad0ee171d91965c9a788cec896f291bc4584359bcf565fd227aefbc268c2851b21229bed2b456754)
 23. [Taraxa](https://testnet.explorer.taraxa.io/address/0x25bed101c78340cbfadf47972a22e4ba7d1f29a5)
 24. [Arkeo](https://explorer.stavr.tech/Arkeo-testnet/staking/tarkeovaloper1kwsdmnp77mvcv93jky3l89q9kdjhqj78e02t66)
 25. [SelfChain](https://explorer.stavr.tech/Selfchain-testnet/staking/selfvaloper1vsxfu4aclu4lsf5s8ac50zfpp2nmfdlwx6kll9)
@@ -39,7 +38,6 @@ Networks and blockchains we are currently testing
 32. [Entrypoint](https://explorer.stavr.tech/Entrypoint-Testnet/staking/entrypointvaloper1ejace9c6a5e4gufsczldhwn9d2q204a9srx8qv)
 33. [SGE](https://explorer.stavr.tech/Sge-Testnet/staking/sgevaloper105xysdmvy6xyz3ytyk62fgkwyczx2n4vzkyp6g)
 35. [Aura](https://explorer.stavr.tech/Aura-Testnet/staking/auravaloper1xjsk9xvjkrmpdr032hn2g96wd8p4na29fleg8k)
-36. [Arthera](https://wallet-dev.arthera.net/validators)
 37. [Union](https://explorer.stavr.tech/Union-Testnet/staking/unionvaloper155gj5fdcs22dr4gm39mlexplxcclq5sg9ydmmv)
 38. [Autonity](https://github.com/obajay)
 39. [Namada](https://namadaexplorer.com/validators?p=1)
@@ -141,6 +139,8 @@ Networks and blockchains we are currently testing
 - [Andromedad](https://explorer.stavr.tech/Andromedad-testnet/staking/andrvaloper1xsm4dvmh5txrcteyv3yq5z8pm58mu35365tpzq)
 - [Band](https://explorer.stavr.tech/Band-Testnet/staking/bandvaloper1x4qa7uqzwd94hwqsamejme4qsgajygyd98sk77)
 - [BonusBlock](https://explorer.stavr.tech/BonusBlock-Testnet/staking/bonusvaloper156jkdw7s0gvrl8w8w2gxgh4dujm7mhchxg9ra0)
+- [Arthera](https://wallet-dev.arthera.net/validators)
+- [Opside](https://opsi.de/validator/0xb712d62b001d4d51ad0ee171d91965c9a788cec896f291bc4584359bcf565fd227aefbc268c2851b21229bed2b456754)
 
 </details>
 
