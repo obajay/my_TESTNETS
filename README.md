@@ -32,7 +32,7 @@ Networks and blockchains we are currently testing
 26. [Entangle](https://explorer.stavr.tech/Entangle-testnet/staking/ethmvaloper1a2delprdpkxney4t4jn006zy67qgr9sn57d7ms)
 27. [Fleek](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 28. [Santiment](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
-29. [Tangle](https://telemetry.polkadot.io/#list/0xea63e6ac7da8699520af7fb540470d63e48eccb33f7273d2e21a935685bf1320)
+29. [Tangle](https://telemetry.polkadot.io/#list/0x3d22af97d919611e03bbcbda96f65988758865423e89b2d99547a6bb61452db3)
 30. [Avail](https://telemetry.avail.tools/#/0x6f09966420b2608d1947ccfb0f2a362450d1fc7fd902c29b67c906eaa965a7ae)
 31. [Mantra](https://explorer.stavr.tech/Mantra-Testnet/staking/mantravaloper136m3l5erz9w936phstxt0fwg02q44rztpx3ny4)
 32. [Entrypoint](https://explorer.stavr.tech/Entrypoint-Testnet/staking/entrypointvaloper1ejace9c6a5e4gufsczldhwn9d2q204a9srx8qv)
