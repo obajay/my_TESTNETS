@@ -22,7 +22,6 @@ Networks and blockchains we are currently testing
 14. [Ojo](https://explorer.stavr.tech/Ojo-Devnet/staking/ojovaloper1cw9f2xn072ll9g5q76d5cg7us9s4gp8903mcel)
 15. [Nois](https://explorer.stavr.tech/Nois-Testnet/staking/noisvaloper1mgdef8haxlvxmml25m2uwlmljqznlsjmw3y893)
 16. [Elys](https://explorer.stavr.tech/Elys-Testnet/staking/elysvaloper1ztfn9tjxudwyeaq25evydz2mv6803cy59jlj2z)
-17. [Cascadia](https://explorer.stavr.tech/Cascadia-testnet/staking/cascadiavaloper1cvw68h268ndl24qpc4rammjawj3t8cm8rmf92z)
 18. [Composable](https://explorer.stavr.tech/Composable-Testnet/staking/centaurivaloper1hvpk89vhtn4d5ptd2gre0nfv8zgwrv0j7t700f)
 20. [C4E](https://explorer.stavr.tech/C4E-Testnet/staking/c4evaloper1m5ycjffxe7a6x9h76l85w4v8qnuhh3dppea0mw)
 21. [Empower](https://explorer.stavr.tech/Empower/staking/empowervaloper1l4xt877lhhhm9573ewpxrcdl9x29n7scjrtdqw)
@@ -31,7 +30,6 @@ Networks and blockchains we are currently testing
 25. [SelfChain](https://explorer.stavr.tech/Selfchain-testnet/staking/selfvaloper1vsxfu4aclu4lsf5s8ac50zfpp2nmfdlwx6kll9)
 26. [Entangle](https://explorer.stavr.tech/Entangle-testnet/staking/ethmvaloper1a2delprdpkxney4t4jn006zy67qgr9sn57d7ms)
 27. [Fleek](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
-28. [Santiment](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 29. [Tangle](https://telemetry.polkadot.io/#list/0x3d22af97d919611e03bbcbda96f65988758865423e89b2d99547a6bb61452db3)
 30. [Avail](https://telemetry.avail.tools/#/0x6f09966420b2608d1947ccfb0f2a362450d1fc7fd902c29b67c906eaa965a7ae)
 31. [Mantra](https://explorer.stavr.tech/Mantra-Testnet/staking/mantravaloper136m3l5erz9w936phstxt0fwg02q44rztpx3ny4)
@@ -142,6 +140,8 @@ Networks and blockchains we are currently testing
 - [BonusBlock](https://explorer.stavr.tech/BonusBlock-Testnet/staking/bonusvaloper156jkdw7s0gvrl8w8w2gxgh4dujm7mhchxg9ra0)
 - [Arthera](https://wallet-dev.arthera.net/validators)
 - [Opside](https://opsi.de/validator/0xb712d62b001d4d51ad0ee171d91965c9a788cec896f291bc4584359bcf565fd227aefbc268c2851b21229bed2b456754)
+- [Cascadia](https://explorer.stavr.tech/Cascadia-testnet/staking/cascadiavaloper1cvw68h268ndl24qpc4rammjawj3t8cm8rmf92z)
+- [Santiment](https://github.com/obajay/my_TESTNETS/blob/main/README.md)
 
 </details>
 
