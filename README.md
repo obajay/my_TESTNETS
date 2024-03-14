@@ -43,6 +43,7 @@ Networks and blockchains we are currently testing
 35. [Dora](https://explorer.stavr.tech/Dora-Testnet/staking/doravaloper1ga8cqdjne2ll6gxgpc3j02an0sapdm0qp5r4v0)
 36. [ShdwDrive](https://dashboard.shdwdrive.com/d/b14b5606-fb9c-4a2a-84fc-80887f144965/dagger-public-data?orgId=1&refresh=30m)
 37. [Side](https://explorer.stavr.tech/Side-Testnet/staking/sidevaloper1tjd795t6mufgf2ncc2g52uwxtvmp8d8fgykp9q)
+38. [Warden](https://explorer.stavr.tech/Warden-Testnet/staking/wardenvaloper1udtm4ysmtjxgyp6rhjal8hh6890sv35m0w2t53)
 
 <details>
 <summary>Finished Testnets</summary>
