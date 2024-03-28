@@ -44,6 +44,7 @@ Networks and blockchains we are currently testing
 36. [ShdwDrive](https://dashboard.shdwdrive.com/d/b14b5606-fb9c-4a2a-84fc-80887f144965/dagger-public-data?orgId=1&refresh=30m)
 37. [Side](https://explorer.stavr.tech/Side-Testnet/staking/bcvaloper1eu8c4l8cawywmszesfqdksmy7naf7rmd2p5vcn)
 38. [Warden](https://explorer.stavr.tech/Warden-Testnet/staking/wardenvaloper1udtm4ysmtjxgyp6rhjal8hh6890sv35m0w2t53)
+39. [Alignedlayer](https://explorer.stavr.tech/Aligned-Testnet/staking/alignedvaloper1a0s4arwzx8theh6szs99tz8taxdfcz59kznchd)
 
 <details>
 <summary>Finished Testnets</summary>
